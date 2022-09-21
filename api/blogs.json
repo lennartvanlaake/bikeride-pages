@@ -1,0 +1,2162 @@
+[
+  {
+    "id": "e9b6b3be-1369-407f-9516-5e8d42ba0ea8",
+    "title": "Leaving home",
+    "long": 5.9092821123298,
+    "lat": 51.970734620226025,
+    "created_at": "2021-07-11T00:00:00.000Z",
+    "updated_at": "2021-10-02T11:32:51.387Z",
+    "images": [
+      {
+        "id": "4b96e66c-6a39-4f88-bb56-d5254e1df723",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/images/fietsthuis.jpg",
+        "description": "",
+        "created_at": "2021-07-24T18:18:33.194+00:00",
+        "updated_at": "2021-10-02T11:32:53.298+00:00",
+        "turn": "left",
+        "created": "2021-07-24T18:18:33.194+00:00",
+        "updated": "2021-10-02T11:32:53.298+00:00"
+      }
+    ],
+    "content": "I have spent months imagining the day I would finally start on my big bike ride. I would be fully prepared, organized and leave home in a blaze of glory and awesomeness.\n\nSadly, that was not what happened when I left on the 11th of July. The day before leaving Bionda (girlfriend) and I decided to have a final fancy dinner, in the knowledge that all would be set for departure. Bionda would be joining me for the first week of my trip. \n\nStill somewhat hazy from the wine last night, we discovered that I am terrible at organization. Not really a discovery, but just a confirmation that I managed to stuff up packing for a trip I have been planning for over a year. We managed to find a gaiter (stuck in a drawer), we later discovered a headlight (packed in with the tent) but a pair of travel-friendly boxers is still lost in space, somewhere hiding in a corner not wanting to be packed in a pannier.\n\nIn the end, we left around 1 pm and managed about 60 kilometers of the Dutch-German borderland before deciding to end the mess that was day one.",
+    "created": "2021-07-11T00:00:00.000Z",
+    "coordinates": {
+      "long": 5.9092821123298,
+      "lat": 51.970734620226025
+    },
+    "index": 0
+  },
+  {
+    "id": "d601673a-6ac8-4667-a30b-159897606851",
+    "title": "Rain",
+    "long": 6.0839,
+    "lat": 50.7753,
+    "created_at": "2021-07-13T00:00:00.000Z",
+    "updated_at": "2021-07-25T11:31:32.442Z",
+    "images": [
+      {
+        "id": "b52b7a99-d76c-4ef4-8418-65a1d53bb800",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/images/regen.jpg",
+        "description": "",
+        "created_at": "2021-07-24T18:19:29.952+00:00",
+        "updated_at": "2021-07-25T11:31:34.505+00:00",
+        "turn": null,
+        "created": "2021-07-24T18:19:29.952+00:00",
+        "updated": "2021-07-25T11:31:34.505+00:00"
+      }
+    ],
+    "content": "After one day of reasonable weather we arrived in Aachen. From Aachen onwards, we had rain. Lots of rain.\n\nTo me, to great annoyance of Bionda, the rain felt refreshing. If a few hours of rain does not break your spirit, you start feeling like a hard-core touring cyclists. After a rough start that left me feeling insecure about being able to survive on my own for a year, I needed that feeling to regain a bit of my confidence.",
+    "created": "2021-07-13T00:00:00.000Z",
+    "coordinates": {
+      "long": 6.0839,
+      "lat": 50.7753
+    },
+    "index": 1
+  },
+  {
+    "id": "2542c439-3de1-44e4-aae1-a5aee9356c69",
+    "title": "Shelter",
+    "long": 6.2,
+    "lat": 50.433333,
+    "created_at": "2021-07-14T00:00:00.000Z",
+    "updated_at": "2021-07-25T13:55:18.640Z",
+    "images": [
+      {
+        "id": "09873914-0dc4-4b89-a8f0-200e0aa1e1d0",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/images/drogendetent.jpeg",
+        "description": "attempting to dry a tent in a hotel room",
+        "created_at": "2021-07-25T13:55:09.722+00:00",
+        "updated_at": "2021-07-25T13:55:20.028+00:00",
+        "turn": null,
+        "created": "2021-07-25T13:55:09.722+00:00",
+        "updated": "2021-07-25T13:55:20.028+00:00"
+      }
+    ],
+    "content": "The rain does not stop. Living in the Netherlands, we are used to long periods of rain. Having continuous rain for several days without a dry minute is something else.\n\nThe refreshing rain stopped being refreshing after packing a whet tent for the second day. After a while (lucky for me) Bionda said she has had enough and we should get a hotel somewhere. We ended up in a resort-type place and watched the final few (60-minute long) episodes of Masterchef Australia. Somehow Australians just make the best reality TV, and Masterchef is just excellent mindless drama for rainy days.",
+    "created": "2021-07-14T00:00:00.000Z",
+    "coordinates": {
+      "long": 6.2,
+      "lat": 50.433333
+    },
+    "index": 2
+  },
+  {
+    "id": "4bf6e25e-0d7d-4a4e-9e50-3fd7680184c4",
+    "title": "Destruction",
+    "long": 6.631136032503418,
+    "lat": 50.223982623723614,
+    "created_at": "2021-07-15T00:00:00.000Z",
+    "updated_at": "2021-07-25T13:56:17.512Z",
+    "images": [
+      {
+        "id": "202707dd-1ad6-481e-9208-818118e8a112",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/images/wegisweg.jpg",
+        "description": "",
+        "created_at": "2021-07-25T10:13:27.318+00:00",
+        "updated_at": "2021-07-25T13:56:19.121+00:00",
+        "turn": null,
+        "created": "2021-07-25T10:13:27.318+00:00",
+        "updated": "2021-07-25T13:56:19.121+00:00"
+      },
+      {
+        "id": "4e616a8c-534c-42e0-8718-9864b0f874bc",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/images/boomopweg.jpg",
+        "description": "",
+        "created_at": "2021-07-25T10:14:11.867+00:00",
+        "updated_at": "2021-07-25T13:56:19.117+00:00",
+        "turn": null,
+        "created": "2021-07-25T10:14:11.867+00:00",
+        "updated": "2021-07-25T13:56:19.117+00:00"
+      },
+      {
+        "id": "19221353-d801-4773-a37a-72990b32b817",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/images/woesterivier.jpeg",
+        "description": "",
+        "created_at": "2021-07-25T13:56:17.633+00:00",
+        "updated_at": "2021-07-25T13:56:17.633+00:00",
+        "turn": null,
+        "created": "2021-07-25T13:56:17.633+00:00",
+        "updated": "2021-07-25T13:56:17.633+00:00"
+      }
+    ],
+    "content": "Sometimes a bit of rain is not just a bit of rain. We started getting some worried messages from friends and family about floods and other horrors happing in Eastern Belgium and Western Germany. \n\nWhen we started cycling again we began to see the scale of what just happened. We saw small creeks becoming huge white-water rivers. We saw a large-scale mobilization of the army, fire brigades and the red cross. Most of all, we saw lots of people with all their muddied belongings standing on their lawns, trying to see if anything is still worth salvaging.\n\nIf we had the option to do so, we probably would have taken the train to get out of the disaster-area. Sadly, the train tracks were right beside the river and were utterly destroyed.\n\nLuckily enough we managed to escape this episode with nothing more than a lot additional respect for the power of nature, and a few additional hours of cycling to get past all the obstacles on the road.",
+    "created": "2021-07-15T00:00:00.000Z",
+    "coordinates": {
+      "long": 6.631136032503418,
+      "lat": 50.223982623723614
+    },
+    "index": 3
+  },
+  {
+    "id": "cf5efac6-83fa-4fa0-8ca0-0edd98cd981e",
+    "title": "Last day together",
+    "long": 6.63883691941901,
+    "lat": 49.76120190561374,
+    "created_at": "2021-07-18T00:00:00.000Z",
+    "updated_at": "2021-07-25T11:53:30.670Z",
+    "content": "Today, in Trier, is the day Bionda will be heading home. She has joined me for the first week, but sadly the week has passed and she now needs to get back to the office.\n\nI feel mixed today. I am sad to see Bionda go, we will not be seeing each other for another month when we will meet up again. I feel a bit insecure about actually being able to pull this nomad lifestyle off. And I feel a bit excited for the intense journey up ahead.",
+    "created": "2021-07-18T00:00:00.000Z",
+    "coordinates": {
+      "long": 6.63883691941901,
+      "lat": 49.76120190561374
+    },
+    "index": 4
+  },
+  {
+    "id": "2a85990f-e519-4dc1-808f-b9adc94c035e",
+    "title": "Mad race to Mark",
+    "long": 6.623027957235312,
+    "lat": 49.44356226262982,
+    "created_at": "2021-07-19T00:00:00.000Z",
+    "updated_at": "2021-10-02T11:34:16.433Z",
+    "images": [
+      {
+        "id": "d455456f-52d6-4062-aec1-cf9e97811bd4",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/images/uitzicht-saarland.JPG",
+        "description": "",
+        "created_at": "2021-07-25T10:01:40.654+00:00",
+        "updated_at": "2021-10-02T11:34:19.364+00:00",
+        "turn": "left",
+        "created": "2021-07-25T10:01:40.654+00:00",
+        "updated": "2021-10-02T11:34:19.364+00:00"
+      },
+      {
+        "id": "c2c5fc9d-3e53-4250-8d93-5f3e8d8d8459",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/images/wijngaarden-saarland.JPG",
+        "description": "",
+        "created_at": "2021-07-25T10:02:01.62+00:00",
+        "updated_at": "2021-10-02T11:34:19.372+00:00",
+        "turn": "left",
+        "created": "2021-07-25T10:02:01.62+00:00",
+        "updated": "2021-10-02T11:34:19.372+00:00"
+      }
+    ],
+    "content": "I saw a message in a WhatsApp group that a friend of mine is staying in the Black Forest until Wednesday. If I'd want to spend a day together, that would mean I'd have to be there by Tuesday.\n\nStarting from Trier, that would give me two and a half days to cycle a route of over 275 kilometers and over a thousand meters altitude gain.\n\nObviously, I accepted this challenge and started racing through Saarland to end up, after a long detour to cross a high hill, in a campground in Merzig, 50 km from where I stared on Sunday night.",
+    "created": "2021-07-19T00:00:00.000Z",
+    "coordinates": {
+      "long": 6.623027957235312,
+      "lat": 49.44356226262982
+    },
+    "index": 5
+  },
+  {
+    "id": "90a12772-1e0d-41de-a9ff-d82f9e332e9f",
+    "title": "Magic BBQ",
+    "long": 7.351200102617314,
+    "lat": 48.96837871147268,
+    "created_at": "2021-07-20T00:00:00.000Z",
+    "updated_at": "2021-08-14T18:48:30.241Z",
+    "images": [
+      {
+        "id": "ebd76728-8c85-4934-b63a-d50f49f0a381",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/images/bijgesnedengastdame.jpg",
+        "description": "My lovely host for the night",
+        "created_at": "2021-07-25T09:56:16.532+00:00",
+        "updated_at": "2021-08-14T18:48:40.91+00:00",
+        "turn": null,
+        "created": "2021-07-25T09:56:16.532+00:00",
+        "updated": "2021-08-14T18:48:40.91+00:00"
+      },
+      {
+        "id": "b2a0c278-6d83-464c-86df-d5ba196de4d9",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/images/bbq-vogezen.JPG",
+        "description": "",
+        "created_at": "2021-08-14T16:21:02.038+00:00",
+        "updated_at": "2021-08-14T18:48:40.936+00:00",
+        "turn": null,
+        "created": "2021-08-14T16:21:02.038+00:00",
+        "updated": "2021-08-14T18:48:40.936+00:00"
+      },
+      {
+        "id": "a9dba5f5-eee3-4fd9-8ec1-9c760ab61e83",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/images/bijgesnedengastdame.jpg",
+        "description": "",
+        "created_at": "2021-08-14T18:48:30.38+00:00",
+        "updated_at": "2021-08-14T18:48:30.38+00:00",
+        "turn": null,
+        "created": "2021-08-14T18:48:30.38+00:00",
+        "updated": "2021-08-14T18:48:30.38+00:00"
+      }
+    ],
+    "content": "To make it to the Black Forest in time, I would have to lose my 9-to-5 cycling mentality. I tried to pack quickly this day, but overslept a bit, then got carried away doing groceries and started cycling a few kilometers in the opposite direction. I started making effective headway at around 10:30.\n\nIf I were to have any chance of making the Black Forest in time, I'd have to keep going cycling for a long time. Most camp ground start closing at around seven or eight, but that would be too soon for me. I decided to accept the realistic chance of having to sleep under the stars on a park bench somewhere, and just keep on going until I could not go no more.\n\nThe moment that my body started to call it quits was about half-way through the French Vosges range of hills. My navigation sent me down a forest track that would hard to traverse on foot, let alone with a bike loaded with tonnes of gear. When lifting my bike across a fallen tree-trunk, my bike and I fell in a muddy stream, drenching us both on a thick layer of forest gunk. At about 20:30, after cycling up yet another hill being disguised as a swamp-monster, I decided that it was time to find a place to sleep.\n\nJust at that moment I heard a Beatles song coming from a house around the corner. I found two guys with lots of hair sitting in the front yard grilling and drinking a few beers. I started by asking for a bit of water to rinse my dirty legs, then asked for a bath to actually clean myself a bit and ended up asking for a place to pitch my tent there. The girl who owned the house, who arrived shortly after, invited me to a place on a lovely couch, and a place at their barbecue. \n\nI had an amazing time chatting in my nearly non-existent French. It felt like such a miracle to meet such open and lovely people at the exact moment you need them the most.\n\n\n\n",
+    "created": "2021-07-20T00:00:00.000Z",
+    "coordinates": {
+      "long": 7.351200102617314,
+      "lat": 48.96837871147268
+    },
+    "index": 6
+  },
+  {
+    "id": "ea7f343d-5b05-4c42-bc99-f07650d182a1",
+    "title": "I found Mark",
+    "long": 8.215946991369783,
+    "lat": 48.294523447690345,
+    "created_at": "2021-07-24T00:00:00.000Z",
+    "updated_at": "2021-07-25T13:43:45.357Z",
+    "images": [
+      {
+        "id": "cd0dddf2-1e28-415a-b74a-a5344728f05a",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/images/markensofie.JPG",
+        "description": "Sadly Evert de Kevert is too small to see on this picture",
+        "created_at": "2021-07-25T10:02:36.655+00:00",
+        "updated_at": "2021-07-25T13:43:47.694+00:00",
+        "turn": null,
+        "created": "2021-07-25T10:02:36.655+00:00",
+        "updated": "2021-07-25T13:43:47.694+00:00"
+      },
+      {
+        "id": "ee748e3d-65fa-4f54-984d-589f0ba9a38a",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/images/bolhoed.JPG",
+        "description": "The Black Forest area is really into hats with big red balls on them",
+        "created_at": "2021-07-25T10:15:28.316+00:00",
+        "updated_at": "2021-07-25T13:43:47.696+00:00",
+        "turn": null,
+        "created": "2021-07-25T10:15:28.316+00:00",
+        "updated": "2021-07-25T13:43:47.696+00:00"
+      }
+    ],
+    "content": "I still had about half the original distance to go to get to Mark in the Black Forest by Tuesday. That means that I had to cover 135 kilometers and lots of hills in one day to make it in time.\n\nTo give myself any chance of making it, I started cycling at around 6:15. Surprisingly, the cycling went pretty well. The high hills of the Vosges slowly turned into the slow, rolling hills of the Elzas. The Elzas ended up in Strasbourg, which started a well-maintained tourist-friendly road into the Black Forest.\n\nI managed to get to the correct campsite at about 19:30. Mark and Sofie were slowly doing their dishes, deliberating the amount of bread they want to order in the morning and naming the beetle they just found under their tent (you will always be in my heart, Evert de Kevert). It took me a couple of minutes to mentally shift back from counting every minute that I am not cycling at full speed to adjust to campground lifestyle.\n\nBut, slowing down felt real good, and after a day in a hammock I was ready again to engage with the world as a normal human being.",
+    "created": "2021-07-24T00:00:00.000Z",
+    "coordinates": {
+      "long": 8.215946991369783,
+      "lat": 48.294523447690345
+    },
+    "index": 7
+  },
+  {
+    "id": "54328844-77fb-4d17-82dc-fe21e3b84911",
+    "title": "Hostel luxury",
+    "long": 7.858251999999999,
+    "lat": 47.9920857,
+    "created_at": "2021-07-25T00:00:00.000Z",
+    "updated_at": "2021-10-02T11:34:53.607Z",
+    "images": [
+      {
+        "id": "944e6f33-1ce8-4ad2-a439-ac57f86ec335",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/images/bozebolhoed.jpg",
+        "description": "The dark side of the silly hat",
+        "created_at": "2021-07-25T09:58:45.443+00:00",
+        "updated_at": "2021-10-02T11:34:55.362+00:00",
+        "turn": "left",
+        "created": "2021-07-25T09:58:45.443+00:00",
+        "updated": "2021-10-02T11:34:55.362+00:00"
+      },
+      {
+        "id": "f29b88c5-f497-4f81-87bd-4ed00e3f343a",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/images/hostelraam.JPG",
+        "description": "View from the kitchen window",
+        "created_at": "2021-07-25T09:59:45.841+00:00",
+        "updated_at": "2021-10-02T11:34:55.358+00:00",
+        "turn": "left",
+        "created": "2021-07-25T09:59:45.841+00:00",
+        "updated": "2021-10-02T11:34:55.358+00:00"
+      }
+    ],
+    "content": "After saying goodbye to Mark, Sofie and Evert de Kevert I went to Freiburg am Breisgrau to treat myself to a hostel for a couple of days. \n\nWhile the rest of the Black Forest seems like a conservative tourist attraction of old-school wooden houses and silly hats, Freiburg is a very progressive and modern city. I have heard it is the first city in Germany to elect a Green mayor. You can see the progressiveness reflected in the far-left stickers, the number of people with mohawks and the large amount of cyclists everywhere.\n\nI've had a good time going climbing again, doing some programming, having a few video calls and playing table-tennis with the other ever-present Dutchies in the hostel.",
+    "created": "2021-07-25T00:00:00.000Z",
+    "coordinates": {
+      "long": 7.858251999999999,
+      "lat": 47.9920857
+    },
+    "index": 8
+  },
+  {
+    "id": "bffb2b84-e077-4463-a48f-2fc41411001d",
+    "title": "Couch rescue",
+    "long": 7.8745589,
+    "lat": 48.0424337,
+    "created_at": "2021-07-27T00:00:00.000Z",
+    "updated_at": "2021-10-02T11:36:42.927Z",
+    "images": [
+      {
+        "id": "58e112a2-105d-4f82-820f-85c3a25d08ab",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/images/fietsfeestjebijRainer.jpg",
+        "description": "My bike in the bike shed",
+        "created_at": "2021-08-01T11:42:44.933+00:00",
+        "updated_at": "2021-10-02T11:36:44.856+00:00",
+        "turn": "left",
+        "created": "2021-08-01T11:42:44.933+00:00",
+        "updated": "2021-10-02T11:36:44.856+00:00"
+      },
+      {
+        "id": "531f754a-22bb-4a25-9534-1066b43b2f55",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/images/opendeur.jpg",
+        "description": "",
+        "created_at": "2021-08-01T11:43:49.339+00:00",
+        "updated_at": "2021-10-02T11:36:44.801+00:00",
+        "turn": null,
+        "created": "2021-08-01T11:43:49.339+00:00",
+        "updated": "2021-10-02T11:36:44.801+00:00"
+      }
+    ],
+    "content": "When entering Freiburg I stopped my bike to have a quick Google to figure out which direction my hostel would be in. Before I could look it up on my phone, a man with a plastic crate tied to the back of his bike stopped and asked me where I was going. He said my hostel would be in the direction he was going too, and so we cycled together for a bit.\n\nIn his plastic crate he was carrying a cheese-cake he baked for a non-profit café. That café was run by a group of volunteers supporting several Ukrainian charities. He told me that he got involved with the Ukraine by once sponsoring a Stahlhelm (a WWII-era metal combat helmet) for a man being sent to fight in Eastern Ukraine. Apparently at that time the Ukrainian army was so low on supplies that they adopted a bring-your-own-helmet policy.\n\nAfter we had a cup of coffee at this café he invited me to stay over at his place on Monday. I was actually planning to head out early that day, but I had such a good feeling about my meeting with Rainer that I decided to take him up on his offer and stay with him for a night. When texting him about staying at his place, he asked me if I'd be willing to help move a couch for him. Naturally I said yes.\n\nWhat I did not know is that we would be picking up a used couch for his recently-moved neighbors in a different town, about an hour drive from where we were. We managed to pick up a mint-condition leather sofa from a doctors-practice and afterwards had a good beer back at his place. During the car-ride he also casually managed to find a place to stay for a girl I met at my hostel.\n\nThanks for being awesome!",
+    "created": "2021-07-27T00:00:00.000Z",
+    "coordinates": {
+      "long": 7.8745589,
+      "lat": 48.0424337
+    },
+    "index": 9
+  },
+  {
+    "id": "e4978ad9-2255-41ea-b53e-efb2ff4eee75",
+    "title": "Free food",
+    "long": 7.8674047,
+    "lat": 47.5908279,
+    "created_at": "2021-07-28T00:00:00.000Z",
+    "updated_at": "2021-10-13T10:18:43.054Z",
+    "content": "When looking for a camping I found a small canoe-club camping. In Germany it is apparently a thing that many canoe-clubs have small campings, and they are absolutely great for cyclists, since all other campings in Germany tend to be swarmed with huge mobile homes.\n\nI was getting a bit hungry and got ready to cook a meager meal of lentil-soup. However, I couldn't find my lighter anywhere, probably because I was too tired and hungry to look properly. I asked a couple of other cyclists if they would have a lighter for me, but they told me to grab some food from an amazing buffet that was set up at the campsite. Apparently a group of teachers was celebrating their last day of school by having a grill-feast and then sharing the surplus from their feast with hungry cyclists.\n\nA free lunch might not exists, but free dinner apparently does.",
+    "created": "2021-07-28T00:00:00.000Z",
+    "coordinates": {
+      "long": 7.8674047,
+      "lat": 47.5908279
+    },
+    "index": 10
+  },
+  {
+    "id": "0e563026-3a05-4b62-a643-3495ca03fc4e",
+    "title": "Bodensee",
+    "long": 9.175987,
+    "lat": 47.6699101,
+    "created_at": "2021-07-29T00:00:00.000Z",
+    "updated_at": "2021-08-01T11:44:45.787Z",
+    "images": [
+      {
+        "id": "4d7621f1-b277-4344-910b-077c9277394f",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/images/bodensee-fiets.jpg",
+        "description": "",
+        "created_at": "2021-08-01T11:44:45.852+00:00",
+        "updated_at": "2021-08-01T11:44:45.852+00:00",
+        "turn": null,
+        "created": "2021-08-01T11:44:45.852+00:00",
+        "updated": "2021-08-01T11:44:45.852+00:00"
+      }
+    ],
+    "content": "",
+    "created": "2021-07-29T00:00:00.000Z",
+    "coordinates": {
+      "long": 9.175987,
+      "lat": 47.6699101
+    },
+    "index": 11
+  },
+  {
+    "id": "2415bc10-98a4-4426-813a-f79cb4066d73",
+    "title": "Catastrophic failure and amazing rescue",
+    "long": 9.641156045014641,
+    "lat": 47.67969909460114,
+    "created_at": "2021-07-30T00:00:00.000Z",
+    "updated_at": "2021-10-02T11:37:34.847Z",
+    "images": [
+      {
+        "id": "99682554-596f-4e5d-b7f6-39886d5806fc",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/images/johnenvrouw.jpg",
+        "description": "",
+        "created_at": "2021-08-01T11:48:06.419+00:00",
+        "updated_at": "2021-10-02T11:37:36.595+00:00",
+        "turn": "left",
+        "created": "2021-08-01T11:48:06.419+00:00",
+        "updated": "2021-10-02T11:37:36.595+00:00"
+      },
+      {
+        "id": "d6fe6c7d-cc46-4fea-a720-546236a0e0a8",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/images/hopvelden.jpg",
+        "description": "stranded in the hop farm",
+        "created_at": "2021-08-01T11:54:29.333+00:00",
+        "updated_at": "2021-10-02T11:37:36.52+00:00",
+        "turn": null,
+        "created": "2021-08-01T11:54:29.333+00:00",
+        "updated": "2021-10-02T11:37:36.52+00:00"
+      }
+    ],
+    "content": "I was cycling through the hills of Swabia, between the Bodensee and Bavaria, my rear wheel stopped turning when my pedaling on my pedals. This was not because my chain fell off, but that turning the cassette did absolutely nothing to spin the wheel. In non-technical terms, my bike was completely useless for anything other than being a clunky kick-bike.\n\nA few hundred meters ago I passed the Vaude (a major outdoor-equipment brand) factory. With no bike shop available, I decided that this was the closest thing I was going to find in the village I was in. I went into the store and was sent to the \"bicycle guy\" working there in the outlet. When showing what was wrong with my bike... IT WORKED AGAIN! I was so happy that the magic ritual of Demonstration (in which everything you try to show someone does the exact opposite of what it does when you are lone) fixed my bike.\n\nSadly, even the magic of a Demonstration cannot fix a broken wheel. 2 kilometers later my wheel broke again, this time for good. Maybe if I would have sacrificed a goat and danced around naked for a bit the magic would have held on a bit longer...\n\nStranded again, I started pushing my bike in the general direction of the next town over, which would be around 5km away. After a couple of minutes a cyclist rode by, asking me in American-accented German if everything was OK. I told him I was fine, since the weather was great, I had a bunch of water and a good sandwich to server as dinner, but that my wheel was broken. He kindly offered to head back to his place, get his car and pick me up.\n\nJohn and his wife Romy also happened to be touring cyclists themselves. We had a little hope that maybe we would find the right parts in the garage somewhere, but we found out pretty quickly that we needed professional help. Next morning they were kind enough to drive me and my bike around to all bike shops in the area.\n\nThe first one we visited did not have the right part, the second one was closed and the third one told us to just use a hair-dryer to heat the inside of the axle. We tried the hair dryer which, somewhat unsurprisingly, did not work. Eventually Romy was able to manage to find a shop with a new wheel which would fit my bike. We went to the store, ridiculed the fact that this shop apparently only sold e-bikes anymore, and after less then an hour I had a working bike with a brand new wheel!\n\nThanks John and Romy!",
+    "created": "2021-07-30T00:00:00.000Z",
+    "coordinates": {
+      "long": 9.641156045014641,
+      "lat": 47.67969909460114
+    },
+    "index": 12
+  },
+  {
+    "id": "4bc6bcff-235d-427e-9bb5-9ed1689bc43d",
+    "title": "Bavarian hillfest",
+    "long": 10.283546471448073,
+    "lat": 47.94978040258399,
+    "created_at": "2021-07-31T00:00:00.000Z",
+    "updated_at": "2021-08-05T09:51:58.590Z",
+    "images": [
+      {
+        "id": "9fa1102a-91e2-47c2-a314-a98cbd448e50",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/images/mooieheuvelinbeieren.jpg",
+        "description": "",
+        "created_at": "2021-08-01T11:50:57.119+00:00",
+        "updated_at": "2021-08-05T09:52:00.312+00:00",
+        "turn": null,
+        "created": "2021-08-01T11:50:57.119+00:00",
+        "updated": "2021-08-05T09:52:00.312+00:00"
+      },
+      {
+        "id": "197d763c-2284-41d3-a1cd-77b4a9405f6a",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/images/kerkjeinbeieren.jpg",
+        "description": "",
+        "created_at": "2021-08-01T11:51:54.613+00:00",
+        "updated_at": "2021-08-05T09:52:00.307+00:00",
+        "turn": null,
+        "created": "2021-08-01T11:51:54.613+00:00",
+        "updated": "2021-08-05T09:52:00.307+00:00"
+      }
+    ],
+    "content": "My haiku on hills in Bavaria (in Dutch):\n\nBeieren, heuvels\n\nZo veel, zo stijl, auw mijn knie\n\nGeen regen, dat scheelt",
+    "created": "2021-07-31T00:00:00.000Z",
+    "coordinates": {
+      "long": 10.283546471448073,
+      "lat": 47.94978040258399
+    },
+    "index": 13
+  },
+  {
+    "id": "2718fa35-558c-4dae-8c5f-ad0c213cd44f",
+    "title": "Microwave cuisine",
+    "long": 11.5602626,
+    "lat": 48.1384261,
+    "created_at": "2021-08-01T00:00:00.000Z",
+    "updated_at": "2021-10-02T11:38:21.685Z",
+    "images": [
+      {
+        "id": "ab2a6a2c-4d9f-4209-8cea-e0a7cdb3cfa8",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/images/microwave-cuisine.jpg",
+        "description": "the result",
+        "created_at": "2021-08-05T08:30:35.325+00:00",
+        "updated_at": "2021-10-02T11:38:24.803+00:00",
+        "turn": null,
+        "created": "2021-08-05T08:30:35.325+00:00",
+        "updated": "2021-10-02T11:38:24.803+00:00"
+      }
+    ],
+    "content": "If a hostel says it is a backpacker hostel, I tend to assume that there is a kitchen to cook something for yourself. Sadly, this assumption was not true for my hostel in Munich. I was thinking to cook fresh pasta with leek and carrot, since that was what I had with me. However, they did allow me access to a microwave. So, I started thinking on how to cook this meal with the tools that were at hand.\n\nYou can use the microwave to cook leek and carrot pretty well, after just a few minutes they get the texture and flavor as if they were steamed. Fresh pasta also cooks remarkably well in the microwave. Together with a bit of soy sauce and olive oil as a dressing, I had a complete and healthy meal with fresh vegetables.",
+    "created": "2021-08-01T00:00:00.000Z",
+    "coordinates": {
+      "long": 11.5602626,
+      "lat": 48.1384261
+    },
+    "index": 14
+  },
+  {
+    "id": "99fed80e-8a0a-45ef-9549-a0b38b2f6e9a",
+    "title": "First stealth camp",
+    "long": 12.300227,
+    "lat": 47.9072647,
+    "created_at": "2021-08-04T00:00:00.000Z",
+    "updated_at": "2021-08-05T07:58:58.753Z",
+    "images": [
+      {
+        "id": "ee11b381-298d-40f6-bb4d-429d63c676b9",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/images/uitkijktorentent.jpg",
+        "description": "the view from my hobo home",
+        "created_at": "2021-08-05T07:58:58.88+00:00",
+        "updated_at": "2021-08-05T07:58:58.88+00:00",
+        "turn": null,
+        "created": "2021-08-05T07:58:58.88+00:00",
+        "updated": "2021-08-05T07:58:58.88+00:00"
+      }
+    ],
+    "content": "I was cycling through heavy rain for most of the day and it was getting a bit late. By the side of a lake I saw a large lookout-tower that looked very sturdy. Particularly because I started hearing a bit of thunder I was happy to take shelter there for a little bit to dry up and hope the intensity of the rain would decrease.\n\nAll day I had been cycling in shorts and a t-shirt, but when I stopped I still felt cold in a jacket and two vests that I wore on top of each other. After an hour or so the rain stopped, but I started liking the view provided by this tower and the idea that I could actually pack a dry tent tomorrow morning. I decided to camp on the first floor of this tower, which reasonably sheltered from the view from the nearby road.\n\nI still had two challenges that day. I needed to have some food, but sadly my gas canister ran out. That meant dining on a delicious meal of (microwaveable) parboiled rice from a plastic packet and a banana. My second challenge was that the two of the local youth decided to hang out on the ground floor, smoke a bit and generally make a lot of noise. Luckily that resolved itself because they decided to head back home just before dark.\n\nThat left me alone to my little tower. Because I have a (semi) self-supporting tent, I was able to sleep in a tent inside the tower. I knew rationally that the chances of something bad happening were really slim. Even if they would spot me from my well-hidden camp spot in the middle of nowhere, I don't think many people would feel like robbing or attacking a random guy sleeping in a tent. Even a bored police officer would have many better things to do then to chase sleepy cyclists away from their camping spots. But still the idea of being exposed made me a bit paranoid of each passing car and of the random noises the wind was making that night.\n\nAfter a broken night, I got up at first light (about 6 am) and headed off to get some coffee at the closest bakery.",
+    "created": "2021-08-04T00:00:00.000Z",
+    "coordinates": {
+      "long": 12.300227,
+      "lat": 47.9072647
+    },
+    "index": 15
+  },
+  {
+    "id": "376955f7-ffbd-4a63-934b-644b6e270b04",
+    "title": "Inside in Salzburg",
+    "long": 13.047487199999999,
+    "lat": 47.80846640000001,
+    "created_at": "2021-08-05T07:26:36.162Z",
+    "updated_at": "2021-08-05T07:26:36.162Z",
+    "images": [
+      {
+        "id": "2309b922-56a7-4c34-9d41-793d456efee7",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/images/depressingsalzburg.JPG",
+        "description": "my view of Salzburg",
+        "created_at": "2021-08-05T07:38:25.25+00:00",
+        "updated_at": "2021-08-05T07:38:25.25+00:00",
+        "turn": null,
+        "created": "2021-08-05T07:38:25.25+00:00",
+        "updated": "2021-08-05T07:38:25.25+00:00"
+      }
+    ],
+    "content": "When heavy rain is predicted I try to book a hostel and stay in a city that is somewhat on the route. Because of that, I tend to spend a lot of time in cities either being very tired inside a hostel or sheltering from the rain inside a hostel. I feel a bit bad that I see very little of cities like Salzburg, that other people travel a long time to see and enjoy. But then I see the weather outside and observe how warm and comfortable I am, and then I feel very content with my decision to shelter a bit more. ",
+    "created": "2021-08-05T07:26:36.162Z",
+    "coordinates": {
+      "long": 13.047487199999999,
+      "lat": 47.80846640000001
+    },
+    "index": 16
+  },
+  {
+    "id": "d2fd156a-2cac-49c5-ab9e-39e8da0eae27",
+    "title": "Jonas and the Alps",
+    "long": 13.1646965,
+    "lat": 47.5970672,
+    "created_at": "2021-08-06T00:00:00.000Z",
+    "updated_at": "2021-10-02T11:39:01.125Z",
+    "images": [
+      {
+        "id": "b0e8a81b-4700-4dae-af90-e39e41783500",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/images/jonasenalp.jpg",
+        "description": "Jonas posing",
+        "created_at": "2021-08-09T09:19:18.625+00:00",
+        "updated_at": "2021-10-02T11:39:02.873+00:00",
+        "turn": "left",
+        "created": "2021-08-09T09:19:18.625+00:00",
+        "updated": "2021-10-02T11:39:02.873+00:00"
+      },
+      {
+        "id": "7b7d46ba-ab41-4b1d-9dc7-541e3b0fb3da",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/images/lennartenalp.jpg",
+        "description": "me posing ",
+        "created_at": "2021-08-09T09:20:05.565+00:00",
+        "updated_at": "2021-10-02T11:39:02.955+00:00",
+        "turn": "left",
+        "created": "2021-08-09T09:20:05.565+00:00",
+        "updated": "2021-10-02T11:39:02.955+00:00"
+      },
+      {
+        "id": "4ec2d1a0-3732-496b-917e-711b097a8632",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/images/treintje.JPG",
+        "description": "train through the mountain",
+        "created_at": "2021-08-09T09:21:14.981+00:00",
+        "updated_at": "2021-10-02T11:39:02.883+00:00",
+        "turn": null,
+        "created": "2021-08-09T09:21:14.981+00:00",
+        "updated": "2021-10-02T11:39:02.883+00:00"
+      },
+      {
+        "id": "27b75d5d-b59b-4346-bfe1-71645c6cc4e0",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/images/bergenwolkjes.JPG",
+        "description": "mandatory mountain picture",
+        "created_at": "2021-08-09T09:22:14.245+00:00",
+        "updated_at": "2021-10-02T11:39:02.964+00:00",
+        "turn": null,
+        "created": "2021-08-09T09:22:14.245+00:00",
+        "updated": "2021-10-02T11:39:02.964+00:00"
+      }
+    ],
+    "content": "After taking my time having an oat-milk cappuccino at a hip restaurant in Salzburg I was ready to get back on the road. The weather was clearing up and I set myself the goal of cycling a reasonable but not too tiring distance of about 50 kilometers. \n\nSadly, I realized I forgot my jacket at the hostel after about 15 kilometers of cycling. Partially because it was a really nice jacket, but mostly because the sky still looked pretty daunting, I decided to go back and pick it up. Luckily it was still hanging where I left it, draped over the seat of the bike next to mine.\n\nAfter that episode I was a little gloomy, having to cycle the same stretch of road three times. Just after the point where I realized I forgot my jacket I saw another guy, about the same age as me, standing by the road with a fully-packed old-school bicycle. Because I was still out of gas for cooking I made him a deal: he would get fresh food for free if I'd be able to use his stove when we got to the next camping.\n\nIt was really nice to hang out with someone traveling with a similar attitude as myself: without a pre-planned route and with a cheap but functional camping setup. Moreover, the view entering the Alps was absolutely spectacular, so I was soon over my spell of self-hatred for forgetting my jacket. The ease of connecting with other touring cyclists always makes me feel as a member of a special tribe. Somehow people like Jonas, who is from Germany, feel culturally so much more closer than my next-door neighbors in Arnhem, because we share way more experiences and opinions.\n\nThe days after meeting Jonas I said goodbye in the morning over a cup of coffee while looking at the stunning mountains. Two hard days of cycling later I crossed the Alps, where the weather forecast was looking significantly better.",
+    "created": "2021-08-06T00:00:00.000Z",
+    "coordinates": {
+      "long": 13.1646965,
+      "lat": 47.5970672
+    },
+    "index": 17
+  },
+  {
+    "id": "28b388e4-fc00-4eef-a7cb-ea9f53010c38",
+    "title": "Being scary",
+    "long": 13.609582066776927,
+    "lat": 46.52060318945508,
+    "created_at": "2021-08-07T00:00:00.000Z",
+    "updated_at": "2021-10-23T13:45:56.330Z",
+    "images": [
+      {
+        "id": "1ddcb112-9677-4212-9483-a5032eceac13",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/images/italietuinkamperen.jpg",
+        "description": "",
+        "created_at": "2021-10-13T10:20:06.292+00:00",
+        "updated_at": "2021-10-23T13:45:57.668+00:00",
+        "turn": null,
+        "created": "2021-10-13T10:20:06.292+00:00",
+        "updated": "2021-10-23T13:45:57.668+00:00"
+      }
+    ],
+    "content": "After a lot of deliberation I decided to take the \"easiest route across the Alps\", the Alpe Adria cycle path. The downside of this road was that it had a small section where you need to take the train, the upside is that all the other passes towards Slovenia have massive climbs to over 2000 meters in altitude, full of sketchy hairpin-turns. \n\nThe crossing was nice, but tiring. The last part from the middle of the Alps to Villach was mostly downhill, so I arrived in Villach at about 15:00. I decided to do a little bit more distance that day as I was still feeling pretty strong and the day was still (relatively) young. Some of the muscles near my knees did start to hurt a little bit, so the steep Wurzen pass that links Austria to Slovenia did sound a bit intense. Instead, I decided on a detour to the north-east corner of Italy, which would avoid high mountain passes.\n\nThe only downside of this plan was that the next camping would be in Slovenia, about 60km from Villach. I got tired of cycling a bit before that, just over the Italian border. When resting in this border-village, I saw a woman tending to her flowers just outside a piece of flat-looking garden. I asked her in a combination of Spanish, Italian and Universal Improvised Sing Language if I was allowed to camp there and, after conferring with her husband, I got her permission to do so.\n\nI set up my tent and prepared to go to sleep. Before going to sleep I went over to their house again to ask if I could use their bathroom for a moment. I tried their front door, which did not have doorbell, but the house was so large that they couldn't hear me knocking. Then I tried the window, from which I could see them cooking dinner. However, I could not knock on the window and draw their attention, as they had a layer of gauze between the window and the outside world.\n\nAt that moment a car stopped in front of their house. A woman stepped out of their car, scared out of her wits because some dirty guy was creepily looking at her parents cooking dinner. When coming down to the street to explain the situation, she immediately backed off and told me to go away. Luckily she was accompanied by a man who spoke a little German, and explained the situation. After conferring with her mom, she was OK with me staying in the garden, but did not allow me to use the bathroom and instead offered me a packet of paper handkerchiefs and told me:\n\n**Toaleta no! Bosce (points towards forest), toaleta.**\n\nLuckily nature did not call me that way, so no paper handkerchiefs were needed.\n\nThe situation all felt a bit awkward, and I decided to pack up and head towards my hostel near Bled at sunrise.\n",
+    "created": "2021-08-07T00:00:00.000Z",
+    "coordinates": {
+      "long": 13.609582066776927,
+      "lat": 46.52060318945508
+    },
+    "index": 18
+  },
+  {
+    "id": "ea6d618a-6262-4852-9745-9c3c429eaa34",
+    "title": "Bled",
+    "long": 14.1608764,
+    "lat": 46.3614355,
+    "created_at": "2021-08-09T00:00:00.000Z",
+    "updated_at": "2021-10-02T11:40:03.671Z",
+    "images": [
+      {
+        "id": "0d5dd4be-8b7f-45ea-a373-8b3defb38fbb",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/images/helder%20water.JPG",
+        "description": "felt artistic today",
+        "created_at": "2021-08-09T10:32:40.654+00:00",
+        "updated_at": "2021-10-02T11:40:05.772+00:00",
+        "turn": null,
+        "created": "2021-08-09T10:32:40.654+00:00",
+        "updated": "2021-10-02T11:40:05.772+00:00"
+      },
+      {
+        "id": "0901125e-a0fe-488c-8b89-502ad38de6dc",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/images/bledchillings.JPG",
+        "description": "the famous lake",
+        "created_at": "2021-08-13T14:18:33.756+00:00",
+        "updated_at": "2021-10-02T11:40:05.774+00:00",
+        "turn": "left",
+        "created": "2021-08-13T14:18:33.756+00:00",
+        "updated": "2021-10-02T11:40:05.774+00:00"
+      }
+    ],
+    "content": "Nice hostel, nice people, no epic stories, some pretty pictures though.",
+    "created": "2021-08-09T00:00:00.000Z",
+    "coordinates": {
+      "long": 14.1608764,
+      "lat": 46.3614355
+    },
+    "index": 19
+  },
+  {
+    "id": "88e24173-1a11-4c89-927a-85566a9f77b1",
+    "title": "Empty house ",
+    "long": 14.6197236,
+    "lat": 46.0612006,
+    "created_at": "2021-08-11T00:00:00.000Z",
+    "updated_at": "2021-08-13T14:35:29.960Z",
+    "images": [
+      {
+        "id": "0b0e1b67-fb12-4f48-8b7b-62e5997a84b3",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/images/indoorstoel.jpg",
+        "description": "building my own chair was easier ",
+        "created_at": "2021-08-13T14:35:29.579+00:00",
+        "updated_at": "2021-08-13T14:35:29.579+00:00",
+        "turn": null,
+        "created": "2021-08-13T14:35:29.579+00:00",
+        "updated": "2021-08-13T14:35:29.579+00:00"
+      }
+    ],
+    "content": "A friend of mine, Daan, has a Slovenian girlfriend (Danaja). I heard that they were in the area around the time that I was visiting, so I messaged Daan to see if I would be able to come over. They were, together with Danaja's entire family, in the north of Croatia for a few months, and I was welcome to join them. But, I could also use the empty house of Danaja's parent's to sleep in for a night. I really appreciated this offer of faith in someone who is basically a stranger to them, and cycled to their house in the suburbs of Ljubljana.\n\nI still needed to complete one more task before I could actually sleep in their house: I needed to get the spare key from their neighbor. I got a phone number, and was answered by woman making friendly Slavic sounds. After a few moments she appeared. I still couldn't find the house, so I did a little searching-dance to show that I was a bit confused to where I was supposed to go. She showed me where to go and managed to have a lovely night sleep in the empty house.\n\n\n",
+    "created": "2021-08-11T00:00:00.000Z",
+    "coordinates": {
+      "long": 14.6197236,
+      "lat": 46.0612006
+    },
+    "index": 20
+  },
+  {
+    "id": "54bf0b25-4411-46f6-af3b-e99943b8c638",
+    "title": "Digital nomad house",
+    "long": 13.509059899572836,
+    "lat": 45.4998767675103,
+    "created_at": "2021-08-13T00:00:00.000Z",
+    "updated_at": "2021-10-02T11:40:59.759Z",
+    "images": [
+      {
+        "id": "54630254-44a7-4baf-8fa4-e8516acfc07b",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/images/twintigprocent.jpeg",
+        "description": "the worst hill",
+        "created_at": "2021-08-19T09:35:46.822+00:00",
+        "updated_at": "2021-10-02T11:41:01.624+00:00",
+        "turn": "left",
+        "created": "2021-08-19T09:35:46.822+00:00",
+        "updated": "2021-10-02T11:41:01.624+00:00"
+      },
+      {
+        "id": "04d817da-523f-4d1a-b13e-556e6b71ce16",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/images/zoveelzweet.jpg",
+        "description": "me sweating a lot",
+        "created_at": "2021-08-19T09:36:50.375+00:00",
+        "updated_at": "2021-10-02T11:41:01.71+00:00",
+        "turn": "left",
+        "created": "2021-08-19T09:36:50.375+00:00",
+        "updated": "2021-10-02T11:41:01.71+00:00"
+      },
+      {
+        "id": "d518a923-9bf0-423f-94bc-5dfa7dd5bc32",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/images/zonsondergang.JPG",
+        "description": "excellent view at the beach",
+        "created_at": "2021-08-19T09:37:34.46+00:00",
+        "updated_at": "2021-10-02T11:41:01.724+00:00",
+        "turn": "left",
+        "created": "2021-08-19T09:37:34.46+00:00",
+        "updated": "2021-10-02T11:41:01.724+00:00"
+      }
+    ],
+    "content": "After staying in a Dutch-dominated overpriced camping for a night I was on my way to my friends in Croatia. I decided not to follow the coast all the way, but take the direct route over the hills in the coastal area of Slovenia. These hills were no joke, particularly when it is about 35 degrees outside. I managed one hill by climbing for five minutes, then stopping for twenty minutes to pour water over my head and cool down, and repeating that process three times.\n\nWhen I arrived at the holiday home of Danaja's parents I immediately felt at home. Everyone in the family was a hyper-focused, somewhat chaotic, dreamy intellectual working on his or her own project, book or thesis. During breakfast having an intense debate on the meaning of life was considered polite conversation. The afternoons were spent working on the remote jobs everyone had and taking walks to the beautiful, sadly obese-German infested, beach nearby. In the early afternoon we watched Desperate Housewives, and at night artsy movies exploring the concept of \"love through suffering\".\n\nI am not sure that this scene would appeal to everyone, but for me, someone who has been described as a scatter-brained professor for as long as I can remember, this was pure heaven. If I did not have other places to go I would have gladly stayed there for a month or so. Thank you all for making me feel so welcome!\n\nSadly I had to leave after a few days. My next destination was Vicenza, where Alvise, my exchange partner from back in high school, lives. He kindly agreed to host me there, and I was excited to see him again after 14 years.",
+    "created": "2021-08-13T00:00:00.000Z",
+    "coordinates": {
+      "long": 13.509059899572836,
+      "lat": 45.4998767675103
+    },
+    "index": 21
+  },
+  {
+    "id": "c6549a50-3f35-420a-890b-62c3cfe59102",
+    "title": "Thunder",
+    "long": 12.482357004544687,
+    "lat": 45.7084228631229,
+    "created_at": "2021-08-17T00:00:00.000Z",
+    "updated_at": "2021-08-19T08:59:13.104Z",
+    "content": "I had a long, hot and tiring ride this day and with no camping in sight, I decided to find a friendly farmer to ask for permission to pitch my tent on his field. After looking for a short while I managed to find someone on a vineyard who kindly allowed me to stay on his land for a night. When I was done pitching, he even came to bring me an ice cream sandwich and a bottle of water. A second farmer came to look at my tent in confusion for a good few minutes, the concept of bicycle touring was something that blew his mind.\n\nI saw a few small flashes of lightning far away, but the air did not feel like it it would be raining here and I could remember that the forecast was that there was a small chance of a little bit of rain that night. Knowing that, I pitched my tent the 'normal' way, without additional guy lines. As you might have guessed from the title of this story, that was not the smartest decision I have ever made...\n\nWhen the thunderstorm hit the field I was in, the wind was like nothing I have ever experienced in a tent. The pegs holding the side of my tent were ripped out and I had to use my hands to keep the side of my tent from flying away. I had to go outside to place additional pegs and guy lines to my tent while the storm was going on. This is significantly harder and less comfortable then pitching a tent before a storm hits.\n\nAfter a while the inside of my tent was wet and I was seriously beginning to doubt whether my tent was going to survive the storm. I decided to pack up all my stuff and run to the nearest bit of cover I could find. Luckily by then the worst of the storm had already passed, so then tent stayed put and survived the night. In about an hour the storm was completely passed and I was able to get back in my tent. After taking a few sips from my secret whiskey stash I eventually managed to get a couple of hours of decent sleep. \n\nThe next morning felt really nice, the thunderstorm clear the worst of the heat. It also managed to thoroughly clean the chain of my bicycle. But, despite the advantages of it provides, I think next time I'll try a bit harder to get a proper roof over my head when I see thunder flashing in the sky.\n\n",
+    "created": "2021-08-17T00:00:00.000Z",
+    "coordinates": {
+      "long": 12.482357004544687,
+      "lat": 45.7084228631229
+    },
+    "index": 22
+  },
+  {
+    "id": "94ce363f-e230-48cb-b936-919803dcf5c9",
+    "title": "Drowning man",
+    "long": 11.790422353499036,
+    "lat": 45.39625350227115,
+    "created_at": "2021-08-18T00:00:00.000Z",
+    "updated_at": "2021-08-19T08:30:23.253Z",
+    "content": "This story is not going to be funny or have pretty pictures. I doubted for a moment whether I wanted to write about this at all, but writing about it felt like a good way to process what happened. \n\nI was on my way from Padua to Vicenza, riding along a cycle path on a small dyke following a river, when I heard a big splash in the water. I stopped riding and saw an older man in the water, close to a boat ramp and a small pier. He left his cane and phone on the pier, so I thought he might have gone for a quick swim. Because something about the whole situation did feel odd, I stood and watched to see if I could find out whether he was still OK. I shouted at him a few times to check if he was still doing well, but got no response.\n\nBy that time it was clear that something was wrong. He was making gasping movements and his head went down in the water a few times. I tried to call the emergency number, but got no response. I then tried to run down to see if I could access the water. Upon reaching the water I remembered what I had been thought about drowning persons: they tend to grab onto anything that floats and thereby often drown their rescuers. The man was much heavier than I am, so I would not stand a chance if he tried to use me as a flotation device. \n\nI then remembered a bridge a little way back which I could use to cross the river. I cycled across the bridge and started looking for an Italian that could help me deal with the emergency services. The first woman I found was reading and decided to ignore my wild shouting and gesturing. In the second group of people I found on the river bank I got one girl, Elena, to join me in going to the pier. Because I was on bike I arrived there a few second before her, and found the man face-down, dead in the water. I turned him around and checked his pulse to make sure he was not alive.\n\nBy then Elena also saw the body and called the emergency services. In the next hours the ambulance, the fire brigade and the police arrived to deal with the situation. With Elena as a translator we managed to provide a witness statement. The police then made us wait for their chief officer to arrive on the scene, who upon arrival was not interested in talking to us. After leaving a phone number I was free to continue my way towards Vicenza.\n\nThe rest of the day the incident was on my mind. In the beginning I was mostly feeling guilty that I did not act sooner. A fully-clothed elderly man in the water should be reason for concern, and at least a reason to get some other people involved to intervene if necessary. After sitting and thinking for a while, I was able to nuance my guilt by realizing that I also could have acted worse. For instance, I could have just ignored the splash and do nothing at all, or I could have gotten myself hurt by blindly diving into the water. I felt that the decision I made to address a specific local who could deal with the emergency services was a good one. \n\nSo, I think I could have acted better and also could have acted worse. At that moment I did the best I could, which sadly was not enough to save this man. Even though this incident will play on my mind for a longer time, I can live with what I did and hope to learn from it so I can act more decisively if I ever find myself in such a situation again.",
+    "created": "2021-08-18T00:00:00.000Z",
+    "coordinates": {
+      "long": 11.790422353499036,
+      "lat": 45.39625350227115
+    },
+    "index": 23
+  },
+  {
+    "id": "bef91a7f-68e1-445c-ada2-83e0ccea1dd3",
+    "title": "Hidden valley ",
+    "long": 11.4903689,
+    "lat": 45.4367577,
+    "created_at": "2021-08-19T00:00:00.000Z",
+    "updated_at": "2021-10-13T10:21:30.495Z",
+    "images": [
+      {
+        "id": "7f23ef3e-dada-4334-b4fe-a709cd635f8b",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/images/alivsehuise.JPG",
+        "description": "",
+        "created_at": "2021-09-04T17:01:55.006+00:00",
+        "updated_at": "2021-10-13T10:21:32.256+00:00",
+        "turn": "left",
+        "created": "2021-09-04T17:01:55.006+00:00",
+        "updated": "2021-10-13T10:21:32.256+00:00"
+      },
+      {
+        "id": "48f08e00-8bb5-4c87-9184-2ada846229a7",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/images/ouwehond.JPG",
+        "description": "",
+        "created_at": "2021-09-04T17:02:28.004+00:00",
+        "updated_at": "2021-10-13T10:21:32.254+00:00",
+        "turn": null,
+        "created": "2021-09-04T17:02:28.004+00:00",
+        "updated": "2021-10-13T10:21:32.254+00:00"
+      }
+    ],
+    "content": "When I was about 15 years old our school had an exchange with a school in Vicenza, a pretty town in northern Italy. Me and my friends were matched with a group of slightly older guys who were active in the local communist party. As a leftist myself, I could enjoy the old-school posters of Marx and Lenin hanging in a teenage bedroom. Probably not what I'd choose myself, but still a sight to see in a country where actual communism died out ages ago.\n\nWe all got along really well, the eighteen year-old Italians enjoyed the ability to get legal weed, we enjoyed cheap cocktails and flirted with Italian girls. Probably some culture was supposed to be involved, but for me only a vague memory of fancy buildings being fancy remains. After the exchange we all became Facebook friends and then lost contact over the years.\n\nBecause I saw that my route was passing close to Vicenza I decided to check if my exchange partner, Alvise, was still living close to his home town. I contacted him and he immediately invited me over to his home in a lovely valley close to the city. He was living in the ancestral home of his parents-in-law together with his wife Elena, some cats and an old blind dog. Everyone living there was extremely welcoming, and I managed to communicated reasonably well in a mix of Italian, Spanish and English at the dinner table.\n\nIn meeting Alvise again I was amazed in how little our interaction has changed in the fourteen years that we haven't seen each other. He still managed to keep his ideals, working in local cooperatives and for trade-unions. I got back to my obsession with being free and traveling in recent years on my bike ride. We both managed to annoy his wife by putting on some obscure early 2000's folk metal (for the fans: Alivse wanted to know some lyrics of a song of the Dutch band Heidevolk). \n\nAfter three really lovely days I was a bit sad to leave the comfort and warmth that Alivse and Elena, and their extended family, gave me. But, I had an appointment to be in Geneva in nine days, so the clock was ticking...",
+    "created": "2021-08-19T00:00:00.000Z",
+    "coordinates": {
+      "long": 11.4903689,
+      "lat": 45.4367577
+    },
+    "index": 24
+  },
+  {
+    "id": "e2380b83-3a65-4868-b4aa-bf2fc48ab15f",
+    "title": "Flat tires suck",
+    "long": 11.14255480750747,
+    "lat": 45.41880015553573,
+    "created_at": "2021-08-23T00:00:00.000Z",
+    "updated_at": "2021-09-04T17:38:34.987Z",
+    "content": "Only 20 kilometers after leaving Vicenza I got a flat tire. A few days before I had another one, so my spare inner tube was also leaky. It was clear that the wear on my tire itself got really bad and needed replacing. At that moment I was still convinced that superglue and tire repair glue is the same thing *(hint: it is not)*, and since superglue was all I got I glued a patch on the hole in my tube.\n\nThe repair managed to hold up to a degree that I could cycle for 5 kilometers and then have to pump it back up a bit. Being fed up with this process I decided to fix the tire properly. Since I did not have the proper glue with me, I just managed to make everything worse and ended up with an unusable bicycle.\n\nAt that moment I was in the countryside close to Verona, in about 35 degree heat. I did not have many choices left but to walk towards Verona and hope that I could either get a decent fix for my tire or a place to sleep. After walking for a while it became clear that all the hotels were booked, but Google Maps told me a bike shop would be open in a town 5 kilometers further down the road. \n\nAfter 5 depressing kilometers of bike-pushing as a sweaty, overburdened pedestrian I came to the bike shop, only to find out it was closed specifically for that day. Given that I needed to sleep somewhere, I decided to just keep on pushing my bike towards Verona, where I would be able to find a camping. After a few hundred meters an Italian man asked me if I needed help, to which I could only say \"Si!\".\n\nHe took me to his home to patch my tires. Sadly, the horrible job I did with the superglue messed up the tires to such a degree that repair was impossible. I got immensely lucky that he was kind enough to take his sons mountainbike from the wall to do an inner-tube transplant to save my bike. Through his kindness I was luckily able to arrive at the insanely overpriced camping in Verona (32 euros for a night!) to sleep and think about the lessons I learned about tire-repair that day.",
+    "created": "2021-08-23T00:00:00.000Z",
+    "coordinates": {
+      "long": 11.14255480750747,
+      "lat": 45.41880015553573
+    },
+    "index": 25
+  },
+  {
+    "id": "9c6a94f2-e8bd-4b18-9cf0-29cbbe318110",
+    "title": "Mini-me",
+    "long": 9.67637548720501,
+    "lat": 45.6576260201546,
+    "created_at": "2021-08-26T00:00:00.000Z",
+    "updated_at": "2021-09-08T15:30:51.882Z",
+    "images": [
+      {
+        "id": "97bbfc2b-b036-4ce6-b65c-a77672f93c0e",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/images/minime.jpg",
+        "description": "",
+        "created_at": "2021-09-08T15:30:30.392+00:00",
+        "updated_at": "2021-09-08T15:30:53.204+00:00",
+        "turn": null,
+        "created": "2021-09-08T15:30:30.392+00:00",
+        "updated": "2021-09-08T15:30:53.204+00:00"
+      }
+    ],
+    "content": "I got a bit tired after a few days of wild camping and decided to treat myself to a hostel in Bergamo. After a bit of searching I managed to find one, obviously located on top of the highest hill in town, for about the same price as a French camping (14 euros). The moment I stepped in I saw another guy on a bike about my age, Victor, enter the hostel. He also quit his job, also brought his tent and was also heading towards Istanbul!\n\nWithout really saying anything at all, it felt like he was a friend I had known for a long time. We had a bit of dinner in town and talked about the things we saw on the road. For those who are curious, Victor is also doing a blog: https://un-oeil-a-bicyclette.com. It is written in French though, so some of you might be needing Google Translate to read it.",
+    "created": "2021-08-26T00:00:00.000Z",
+    "coordinates": {
+      "long": 9.67637548720501,
+      "lat": 45.6576260201546
+    },
+    "index": 26
+  },
+  {
+    "id": "a92a4b9c-6740-4dee-9440-49459060b8d8",
+    "title": "Alps part 2",
+    "long": 8.07080153484121,
+    "lat": 46.180792375951924,
+    "created_at": "2021-08-27T00:00:00.000Z",
+    "updated_at": "2021-09-08T15:20:17.279Z",
+    "images": [
+      {
+        "id": "21f61313-ebf3-4adc-b5b1-7df8c64d8353",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/images/alpenvallei.JPG",
+        "description": "",
+        "created_at": "2021-09-04T17:42:20.61+00:00",
+        "updated_at": "2021-09-08T15:20:18.967+00:00",
+        "turn": null,
+        "created": "2021-09-04T17:42:20.61+00:00",
+        "updated": "2021-09-08T15:20:18.967+00:00"
+      },
+      {
+        "id": "9d32adf3-eeb8-42f9-9c68-81aced860b7f",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/images/piedmont.JPG",
+        "description": "",
+        "created_at": "2021-09-04T17:46:09.788+00:00",
+        "updated_at": "2021-09-08T15:20:19.054+00:00",
+        "turn": null,
+        "created": "2021-09-04T17:46:09.788+00:00",
+        "updated": "2021-09-08T15:20:19.054+00:00"
+      },
+      {
+        "id": "0985fef1-7350-488b-a050-66b9b0301f03",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/images/simplonuitzicht.JPG",
+        "description": "",
+        "created_at": "2021-09-04T17:49:14.096+00:00",
+        "updated_at": "2021-09-08T15:20:18.981+00:00",
+        "turn": null,
+        "created": "2021-09-04T17:49:14.096+00:00",
+        "updated": "2021-09-08T15:20:18.981+00:00"
+      }
+    ],
+    "content": "After I cheated myself out of my first Alpine pass by taking the train under the mountain, I wanted to do the full pass-experience this time. And I did get the proper Alpine experience this time.\n\nI was taking the Simplon pass from Italy to Switzerland. People I have met on the way told me this would be a doable pass by bicycle, at least compared to the other ones. It takes you to 2030 meters on the highest point. At the start I was still feeling quite good about myself. The bits of steep climbing were tiring, but still doable frequent rest stops.\n\nOnly when I got over 1500 meters in altitude things started to get a bit worse. I got very strong headwinds, and in combination with the thinner air I really could not do more than a few hundred meters by bike at a time. I had to get into a rhythm of walking a bit, cycling a bit and then resting for a bit to finally manage to get to the top. \n\nIt was scary and devastating, but also very satisfactory. And it got me some nice pictures.",
+    "created": "2021-08-27T00:00:00.000Z",
+    "coordinates": {
+      "long": 8.07080153484121,
+      "lat": 46.180792375951924
+    },
+    "index": 27
+  },
+  {
+    "id": "6b393db3-9fa2-4c81-aea0-7bea1e53c883",
+    "title": "Holiday from travelling",
+    "long": 6.097297290573255,
+    "lat": 46.164614496897094,
+    "created_at": "2021-09-04T00:00:00.000Z",
+    "updated_at": "2021-10-02T11:42:48.436Z",
+    "images": [
+      {
+        "id": "a7b636fc-bd67-40ba-b59a-9af3c58b6229",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/images/bridge.JPG",
+        "description": "",
+        "created_at": "2021-09-08T15:35:33.263+00:00",
+        "updated_at": "2021-10-02T11:42:50.015+00:00",
+        "turn": "left",
+        "created": "2021-09-08T15:35:33.263+00:00",
+        "updated": "2021-10-02T11:42:50.015+00:00"
+      },
+      {
+        "id": "de79d894-4638-4f9b-b2ea-9bfe855c8684",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/images/grenobleuitzicht.JPG",
+        "description": "",
+        "created_at": "2021-09-08T15:50:31.482+00:00",
+        "updated_at": "2021-10-02T11:42:50.094+00:00",
+        "turn": null,
+        "created": "2021-09-08T15:50:31.482+00:00",
+        "updated": "2021-10-02T11:42:50.094+00:00"
+      }
+    ],
+    "content": "After eight continuous days of cycling I finally arrived in Geneva at Tom and Olivia's place. They were kind enough to provide me with pizza, beer and some listening ears for my stories of the road. \n\nThe next day Bionda would be arriving too, so they chose a short hike close to the city to do before she arrived. We went to a monastery in the hills and brought a hefty lunch basket with cheese, pickles and dolma's. The hike might have been a bit more intense then advertised, but we managed to reach a col at 1800 meters altitude and be back in time to pick up my girlfriend.\n\nBionda and I booked a studio in Grenoble for a few days so we could spend a bit of time as a couple. We enjoyed the city, seeing a few sights and going out for fancy vegan food, and enjoyed each others company. It was a bit weird seeing someone again who you have seen almost continuously due to work-from-home restrictions for the entire pandemic. But I think that the different lives we were now both living helped us connect as people again, outside the boundaries of our day-to-day routines.\n\nAfter a week it was time to go back on the road again. While I was feeling rested, it felt a bit sad to go again, knowing that I would be missing all the comforts of homely living and the company of some of my favorite humans.",
+    "created": "2021-09-04T00:00:00.000Z",
+    "coordinates": {
+      "long": 6.097297290573255,
+      "lat": 46.164614496897094
+    },
+    "index": 28
+  },
+  {
+    "id": "0bf5f907-bbb7-442c-a99c-d69284cab629",
+    "title": "the blues",
+    "long": 5.3470872958504465,
+    "lat": 45.71054422769618,
+    "created_at": "2021-09-08T15:50:56.150Z",
+    "updated_at": "2021-09-08T15:50:56.150Z",
+    "images": [
+      {
+        "id": "f6e1bb5c-ba8e-4565-b1f5-307c619e0381",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/images/threecats.JPG",
+        "description": "",
+        "created_at": "2021-09-08T16:20:20.742+00:00",
+        "updated_at": "2021-09-08T16:20:20.742+00:00",
+        "turn": null,
+        "created": "2021-09-08T16:20:20.742+00:00",
+        "updated": "2021-09-08T16:20:20.742+00:00"
+      }
+    ],
+    "content": "The first kilometers after leaving Geneva felt great. The weather was perfect, my legs felt good and the views were pretty. I took a few wrong turns and managed to drive in a circle, but it didn't bother me at all.\n\nIn the late afternoon my mood began to change. I was not feeling to good physically and started to wonder what I was doing here on my own, suffering to get up a hill on a bike, while I just left my friends and a perfectly comfortable apartment. I decided to find a place to camp sooner than I would normally do to ensure I would get rested well. \n\nThe camping I found was clearly geared towards rented cabins and caravans, and had a filthy bathroom building. I got a square, isolated spot of uneven grass. The next morning I felt a bit iffy because my sleeping mat seemed to have deflated a bit in the night, leaving me with a mattress way too soft for my taste. I took my time cooking a breakfast of macaroni with vegetables, which caused me to leave eventually around ten.\n\nDuring my ride I started wondering if I actually liked cycling at all. And if I did not like going on adventure, and was not too excited about my life working at the office, then what was there to be excited about at all? \n\nAfter a long afternoon of cycling my mojo started to return. I was still a bit tired and a bit down, but I started to enjoy the views again. I decided to get a good night's sleep and look for a camping. The camping I found was possibly even worse, at least from my perspective, as the one I found the night before. I continued cycling hoping that I would find a place to sleep somewhere.\n\nSoon after the camping I found a woman sitting in front of an old farmhouse. In the farmhouse I saw a large number of cats sitting in a row, being very picturesque. I took a quick picture of the cats and asked the woman in broken French if I could put my tent on some of her land. She allowed me to pitch on a bit of land below.\n\nI went to look for the leak in my mat, and found none. I guess I must have left the valve open, because that night I slept really well in a lovely open field with a great view. My blues was completely gone and I was able to enjoy everything again.\n\nI think the trick for me is that if everything suddenly seems awful, it is probably not the world that suddenly turned awful, it is probably just you being a bit down. Having a small adventure and a decent night sleep luckily was enough for me to get out of my first bit of blues and have me enjoy cycling again.",
+    "created": "2021-09-08T15:50:56.150Z",
+    "coordinates": {
+      "long": 5.3470872958504465,
+      "lat": 45.71054422769618
+    },
+    "index": 29
+  },
+  {
+    "id": "ef64eb6d-ecfd-498b-be92-ec8e612493cb",
+    "title": "Muskrats!",
+    "long": 4.802809693451171,
+    "lat": 45.2463781217005,
+    "created_at": "2021-09-09T00:00:00.000Z",
+    "updated_at": "2021-09-16T15:04:06.010Z",
+    "images": [
+      {
+        "id": "c68083ec-8723-4597-9e95-3e7bbd3a5dd1",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/dikkerat.JPG",
+        "description": "",
+        "created_at": "2021-09-16T15:03:17.674+00:00",
+        "updated_at": "2021-09-16T15:04:07.54+00:00",
+        "turn": null,
+        "created": "2021-09-16T15:03:17.674+00:00",
+        "updated": "2021-09-16T15:04:07.54+00:00"
+      },
+      {
+        "id": "17a56b47-74b2-4c91-af36-240b1190a189",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/waterrat.JPG",
+        "description": "",
+        "created_at": "2021-09-16T15:03:42.832+00:00",
+        "updated_at": "2021-09-16T15:04:07.545+00:00",
+        "turn": null,
+        "created": "2021-09-16T15:03:42.832+00:00",
+        "updated": "2021-09-16T15:04:07.545+00:00"
+      }
+    ],
+    "content": "I saw a few muskrats swimming in the river. Apparently they are considered pets, but I just considered them cute.",
+    "created": "2021-09-09T00:00:00.000Z",
+    "coordinates": {
+      "long": 4.802809693451171,
+      "lat": 45.2463781217005
+    },
+    "index": 30
+  },
+  {
+    "id": "e0052a76-bc52-48c0-90c6-67cf95827dc6",
+    "title": "Marseille",
+    "long": 5.3716652,
+    "lat": 43.2914146,
+    "created_at": "2021-09-16T00:00:00.000Z",
+    "updated_at": "2021-10-02T11:43:36.834Z",
+    "images": [
+      {
+        "id": "1e670e94-92b4-4e18-84d3-46285de8250d",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/lachendegast.JPG",
+        "description": "",
+        "created_at": "2021-09-16T15:16:38.218+00:00",
+        "updated_at": "2021-10-02T11:43:39.034+00:00",
+        "turn": "left",
+        "created": "2021-09-16T15:16:38.218+00:00",
+        "updated": "2021-10-02T11:43:39.034+00:00"
+      },
+      {
+        "id": "cbdb2b69-4950-456c-8116-2f3ffa7caa3f",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/manversussatansstep.JPG",
+        "description": "",
+        "created_at": "2021-09-16T15:17:00.868+00:00",
+        "updated_at": "2021-10-02T11:43:39.036+00:00",
+        "turn": null,
+        "created": "2021-09-16T15:17:00.868+00:00",
+        "updated": "2021-10-02T11:43:39.036+00:00"
+      },
+      {
+        "id": "4949035b-7b38-4a04-9fe2-a89722ee578b",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/markt.JPG",
+        "description": "",
+        "created_at": "2021-09-16T15:17:33.199+00:00",
+        "updated_at": "2021-10-02T11:43:38.983+00:00",
+        "turn": "left",
+        "created": "2021-09-16T15:17:33.199+00:00",
+        "updated": "2021-10-02T11:43:38.983+00:00"
+      },
+      {
+        "id": "c1e320a8-9ba9-482f-b075-ce0b16072339",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/uitzichtophaven.JPG",
+        "description": "",
+        "created_at": "2021-09-16T15:18:06.378+00:00",
+        "updated_at": "2021-10-02T11:43:39.043+00:00",
+        "turn": "left",
+        "created": "2021-09-16T15:18:06.378+00:00",
+        "updated": "2021-10-02T11:43:39.043+00:00"
+      }
+    ],
+    "content": "My ride towards Marseille has been relatively uneventful. The road along the Rhone was really nice and allowed me to do a couple of 100km+ days without feeling too tired. Cheap campings were abundant so I wouldn't have to worry too much about finding a place to stay. The largest challenge on the route was getting from the Rhone river to Marseille, where the French have apparently forgotten that this is a sensible route for cyclists to take, leaving only a prohibited mining route and an almost-highway as options to make the crossing.\n\nI took a couple of days to rest at a hostel. The airconditioned room was very welcome in the somewhat oppressive and polluted warmth of the city. To be honest, I needed a bit of time to get used to the very chaotic, south European feel of the city. But after a while I managed to appreciate the nice parts of the diversity that the city had too offer. You don't often get the feel like you are in a Soukh in Morocco only a few hundred meters from most touristic hotspot in a European city.\n\nThe next stop on the trip is going to be Corisca, from where I will take the ferry again to meet up with my aunt and uncle in Italy.",
+    "created": "2021-09-16T00:00:00.000Z",
+    "coordinates": {
+      "long": 5.3716652,
+      "lat": 43.2914146
+    },
+    "index": 31
+  },
+  {
+    "id": "db47a6da-f996-4e15-b41f-7706cb7b1602",
+    "title": "Corsica corner cutting",
+    "long": 9.447561490338286,
+    "lat": 42.697982006103004,
+    "created_at": "2021-09-18T00:00:00.000Z",
+    "updated_at": "2021-10-02T11:44:20.808Z",
+    "images": [
+      {
+        "id": "77825e6e-d908-421f-ac6b-2387aeacad3e",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/oudehaven.JPG",
+        "description": "",
+        "created_at": "2021-09-25T06:38:00.06+00:00",
+        "updated_at": "2021-10-02T11:44:22.054+00:00",
+        "turn": null,
+        "created": "2021-09-25T06:38:00.06+00:00",
+        "updated": "2021-10-02T11:44:22.054+00:00"
+      },
+      {
+        "id": "e277ba9c-78cf-419e-b5af-a6af325ede09",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/produitscorses.JPG",
+        "description": "",
+        "created_at": "2021-09-25T06:38:35.296+00:00",
+        "updated_at": "2021-10-02T11:44:22.056+00:00",
+        "turn": "left",
+        "created": "2021-09-25T06:38:35.296+00:00",
+        "updated": "2021-10-02T11:44:22.056+00:00"
+      },
+      {
+        "id": "bfa29364-e98e-490a-b43c-6ef5b908a178",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/corsicalibera.JPG",
+        "description": "",
+        "created_at": "2021-09-25T06:39:27.363+00:00",
+        "updated_at": "2021-10-02T11:44:22.075+00:00",
+        "turn": null,
+        "created": "2021-09-25T06:39:27.363+00:00",
+        "updated": "2021-10-02T11:44:22.075+00:00"
+      },
+      {
+        "id": "12928ec4-b53f-4e6d-84b4-667c6fe79207",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/kat.JPG",
+        "description": "",
+        "created_at": "2021-09-25T06:52:13.393+00:00",
+        "updated_at": "2021-10-02T11:44:22.068+00:00",
+        "turn": null,
+        "created": "2021-09-25T06:52:13.393+00:00",
+        "updated": "2021-10-02T11:44:22.068+00:00"
+      }
+    ],
+    "content": "Before booking the ferry to Corsica I had the vague memory that ferry-rides were romantic Titanic-like adventures were you can sit on the deck and watch over sea. I should have remembered that actually cheap ferries have the atmosphere of a giant Ryanair flight, where everything is geared to having you buy low-quality stuff you don't really want. \n\nBeing a locked-in customer makes me a bit resentful, and decided on not spending any money on anything. That did mean that I had to pass the night on my sleeping mat somewhere on the floor and that my dinner consisted of a pack of off-brand Pringles. They even kicked me out of my sleeping spot halfway through the night because I pitched my spot in a bar. Since most of the ship consisted of bars, restaurants and other things to have you spend money, I was a bit annoyed about having to move. \n\nAt six in the morning I arrived in Bastia, a port town on Corsica. I was feeling a bit groggy, but having a bit of coffee and (my favorite) lemon meringue pie helped a lot. That night I stayed in a non-profit hostel. My guess was that it was some sort of cooperative community, with also people living there full time. Sadly, since this was still French, everyone just spoke rapid French to each other and I was a bit too sleepy to put in the effort to fully understand what was going on.\n\nThe next morning I was off again, to complete my short-cut to Italy with a ferry to Livorno.",
+    "created": "2021-09-18T00:00:00.000Z",
+    "coordinates": {
+      "long": 9.447561490338286,
+      "lat": 42.697982006103004
+    },
+    "index": 32
+  },
+  {
+    "id": "869d645f-dc16-4d13-a652-ef2819cc1295",
+    "title": "Flat tires suck: part 2",
+    "long": 10.428780295188593,
+    "lat": 43.39733864318371,
+    "created_at": "2021-09-19T00:00:00.000Z",
+    "updated_at": "2021-09-25T07:32:39.056Z",
+    "images": [
+      {
+        "id": "14df3394-a1d2-4ca0-a10b-70f5328ce487",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/zee.JPG",
+        "description": "",
+        "created_at": "2021-09-25T07:09:12.316+00:00",
+        "updated_at": "2021-09-25T07:32:40.903+00:00",
+        "turn": null,
+        "created": "2021-09-25T07:09:12.316+00:00",
+        "updated": "2021-09-25T07:32:40.903+00:00"
+      }
+    ],
+    "content": "About 5 kilometers from the port of Livorno I got my first flat tire on the road to Riet and Guus, near Castiglione della Pescia. I was pretty tired from the ferry, hungry and annoyed by the strong wind so I struggled immensely with getting the spare tire pumped up right. After about an hour of messing about with my pump, I discovered my spare tire was also leaking. I decided that I was too tired to cope with this nonsense, so I pushed my bike towards the closest place serving food and had a big panini Carpese with a bottle of Coke.\n\nHaving restored a part of my inner peace, I gave the tire repair another go. I took out my second spare (after the debacle last time I started carrying two) and put it in the tire. This seemed to work fine and was very proud of my work as a repairman. Sadly, after a tiny bit of riding, that tire also flattened out. Getting a bit annoyed at myself, I decided to take a bit more time and properly figure out what was going on.\n\nIt turned out that there was a piece of glass stuck in my tire, which would puncture any inner tube you put in. Because all my spares were now punctured by this shard I had to patch up the tire currently in place. I first decided to do what I always do, and that is to ignore the instructions on the patches and just put some of the tire-repair glue (NOT normal super-glue) on and press a patch on that until it sticks. \n\nThat doesn't work because you need to give the tire-repair stuff a few minutes to dry to \"melt\" the rubber on which you put the patch. After I decided to not be an idiot and just follow the instructions on how to patch a tire, it magically worked! Who would have guessed that instruction manuals are good for anything...\n\nBecause I spent most of the day messing around with my tires I booked a cheap(ish) hotel, got a pizza and went to bed early so I could make it in time to meet Riet and Guus tomorrow.",
+    "created": "2021-09-19T00:00:00.000Z",
+    "coordinates": {
+      "long": 10.428780295188593,
+      "lat": 43.39733864318371
+    },
+    "index": 33
+  },
+  {
+    "id": "382f025b-a197-45b0-8ef7-b0fdfd611cb5",
+    "title": "Two hikers and a biker",
+    "long": 10.815258754522718,
+    "lat": 42.77896476286715,
+    "created_at": "2021-09-20T00:00:00.000Z",
+    "updated_at": "2021-10-02T11:45:27.632Z",
+    "images": [
+      {
+        "id": "8ea019ca-0160-4945-b398-8a1122c0c633",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/rietenguus.JPG",
+        "description": "",
+        "created_at": "2021-09-25T07:34:51.609+00:00",
+        "updated_at": "2021-10-02T11:45:30.124+00:00",
+        "turn": null,
+        "created": "2021-09-25T07:34:51.609+00:00",
+        "updated": "2021-10-02T11:45:30.124+00:00"
+      },
+      {
+        "id": "d3652202-017b-490d-927b-ccbd55917667",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/wcpapierwelkomst.jpeg",
+        "description": "",
+        "created_at": "2021-09-25T07:35:21.402+00:00",
+        "updated_at": "2021-10-02T11:45:30.122+00:00",
+        "turn": null,
+        "created": "2021-09-25T07:35:21.402+00:00",
+        "updated": "2021-10-02T11:45:30.122+00:00"
+      },
+      {
+        "id": "7397f119-f5d3-4f2e-be5c-5057e4e79d0b",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/rietenik.jpeg",
+        "description": "",
+        "created_at": "2021-09-25T07:58:20.789+00:00",
+        "updated_at": "2021-10-02T11:45:30.205+00:00",
+        "turn": null,
+        "created": "2021-09-25T07:58:20.789+00:00",
+        "updated": "2021-10-02T11:45:30.205+00:00"
+      }
+    ],
+    "content": "Before starting my trip I visited my aunt and uncle, Riet and Guus, at their place to say goodbye and talk a bit about my plans. They told me that they were going to be walking through Tuscany in September. This seems like an intense hike, but they have been doing hikes like this for years now, even going from the Netherlands to the south of Italy in one go, so this is just a regular summer for these die-hard pilgrims. Since in September I'd be well underway on my bike ride, I figured I could make it to Italy by then and meet up with them. So, from then on Tuscany in September had become one of the fixed points of my itinerary.\n\nFor the night they were meeting me they booked a bungalow in a camping so luxurious that it almost felt like an all-inclusive resort. Arriving in my sweaty shirt on my dirty bike felt a bit strange around the immaculate modern swimming pools. When they came to pick me up at the reception we did a good round of hugs, had a beer at the camping bar and headed over to the hyper-modern bungalow.\n\nIt was really good to see them, and fun to see all their hiking kit drying out everywhere. I have heard about their travels before, but it's something else to see them in full hiking mode, including cans of tuna as emergency food. The next morning we all headed out again, me towards the west coast of Italy to get a ferry to Croatia and them going towards Elba as the final stop of their pilgrimage. Thanks again for the warm welcome!\n\n\n",
+    "created": "2021-09-20T00:00:00.000Z",
+    "coordinates": {
+      "long": 10.815258754522718,
+      "lat": 42.77896476286715
+    },
+    "index": 34
+  },
+  {
+    "id": "c423046b-f25a-4822-aa5d-d7fe5ab74f5e",
+    "title": "More family in Tuscany",
+    "long": 11.48862170960176,
+    "lat": 43.27600773996174,
+    "created_at": "2021-09-21T00:00:00.000Z",
+    "updated_at": "2021-10-02T11:45:45.715Z",
+    "images": [
+      {
+        "id": "408b1ef1-f74f-474e-a6c9-658d24933c3b",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/metadentrudibijsiena.jpeg",
+        "description": "",
+        "created_at": "2021-09-25T08:36:15.05+00:00",
+        "updated_at": "2021-10-02T11:45:47.884+00:00",
+        "turn": null,
+        "created": "2021-09-25T08:36:15.05+00:00",
+        "updated": "2021-10-02T11:45:47.884+00:00"
+      },
+      {
+        "id": "658f641f-4cf5-4f92-902d-981a1b1dfe0e",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/voetenbijadentrudie.JPG",
+        "description": "",
+        "created_at": "2021-09-25T08:50:55.993+00:00",
+        "updated_at": "2021-10-02T11:45:47.88+00:00",
+        "turn": null,
+        "created": "2021-09-25T08:50:55.993+00:00",
+        "updated": "2021-10-02T11:45:47.88+00:00"
+      },
+      {
+        "id": "619ef241-2891-41c5-b72f-87a201d8f22a",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/ikvandeheuvelaf.jpeg",
+        "description": "",
+        "created_at": "2021-09-25T09:01:08.379+00:00",
+        "updated_at": "2021-10-02T11:45:47.888+00:00",
+        "turn": null,
+        "created": "2021-09-25T09:01:08.379+00:00",
+        "updated": "2021-10-02T11:45:47.888+00:00"
+      }
+    ],
+    "content": "While I was with Riet and Guus I got a text from another aunt that also just happened to be in Tuscany at the time. Trudi and her husband Ad are avid road cyclists and were staying in an agriturismo about 120km from where I was. I suggested them to meet up for lunch the next day, which ended up being on the famous square in Siena. We had a great lunch, I had some sort of pasta with cheese sauce, but then somehow better then I can imagine making sauce from just cheese.\n\nIn Siena they suggested that I could stay with them for a night, which I gladly accepted. A night in a proper bed on a farm in the Tuscan hills sounded a lot better then sleeping in the bushes somewhere between Siena and Florance. \n\nCycling back to their accommodation  I noticed that I found it easier to keep up with them on their road bikes going uphill compared then on the flats or downhill. Apparently all the stuff I was carrying on my bike mattered less then the difference in aerodynamics and rolling resistance. I would have assumed that it would be the other way around, perhaps because weight is much more visible and concrete.\n\nThe agriturismo was located on a high hill, with an amazing view of the empty hilly countryside. Apparently the owner of the farm was a local hero in horse racing, having won the Palio in Siena, a crazy horse race on the pavement around the main city square. We spent a good amount of time watching him transporting horses up and down the hill, presumably to give them a bit of practice for the next years race.\n\nThe next morning I woke up well-rested, had a nice vegan breakfast with oat-milk and said goodbye to Trudi and Ad. I was going to try to take a short-cut my navigation app suggested that used a hiking trail to get me to the road to Florance without too much of a detour. Ad told me that he did not think that there was any road there, and it turned out he was right...\n",
+    "created": "2021-09-21T00:00:00.000Z",
+    "coordinates": {
+      "long": 11.48862170960176,
+      "lat": 43.27600773996174
+    },
+    "index": 35
+  },
+  {
+    "id": "be47fbfa-eb0c-44e1-bfd7-ec792b0d8a8a",
+    "title": "Florence",
+    "long": 11.2453225,
+    "lat": 43.7683139,
+    "created_at": "2021-09-25T00:00:00.000Z",
+    "updated_at": "2021-10-04T06:59:46.777Z",
+    "images": [
+      {
+        "id": "c572747a-5358-44ae-bfe9-f4cfcde01645",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/dewegisweg.jpeg",
+        "description": "",
+        "created_at": "2021-09-25T09:03:24.8+00:00",
+        "updated_at": "2021-10-04T06:59:54.345+00:00",
+        "turn": null,
+        "created": "2021-09-25T09:03:24.8+00:00",
+        "updated": "2021-10-04T06:59:54.345+00:00"
+      },
+      {
+        "id": "df0435c7-2212-43b6-82a5-f75ddd697881",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/fietsinveld.jpeg",
+        "description": "Just a little bit lost",
+        "created_at": "2021-09-25T09:03:38.15+00:00",
+        "updated_at": "2021-10-04T06:59:54.314+00:00",
+        "turn": null,
+        "created": "2021-09-25T09:03:38.15+00:00",
+        "updated": "2021-10-04T06:59:54.314+00:00"
+      },
+      {
+        "id": "4f09bdd0-4893-414e-82e6-474e5d762517",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/heuvelsbijflorance.JPG",
+        "description": "rewards",
+        "created_at": "2021-09-25T09:04:16.71+00:00",
+        "updated_at": "2021-10-04T06:59:54.341+00:00",
+        "turn": null,
+        "created": "2021-09-25T09:04:16.71+00:00",
+        "updated": "2021-10-04T06:59:54.341+00:00"
+      },
+      {
+        "id": "e7ddd65a-28f3-43f7-9035-e0290dcae402",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/mooieluchtflorance.jpg",
+        "description": "",
+        "created_at": "2021-10-04T06:59:46.907+00:00",
+        "updated_at": "2021-10-04T06:59:46.907+00:00",
+        "turn": null,
+        "created": "2021-10-04T06:59:46.907+00:00",
+        "updated": "2021-10-04T06:59:46.907+00:00"
+      }
+    ],
+    "content": "Leaving the agriturismo I was excited about riding a day on the famous Tuscan 'white roads'. The hill I was riding down from seemed to be just like that, a well-maintained dirt road across the hills. At the bottom of a hill I was able to follow a few signs of the trail that would lead to the main road, from where I would be able to follow the asphalt to Florance.\n\nAfter a few turns the road just disappeared. The line on the map indicated a trail, but all I was able to see is just a moon-like field of rough clay. I pushed my bike across the field in the hope that I would get back on something remotely cyclable. Instead of a road, I got an even larger field, except this time it was a lot bigger and on a steep hill.\n\nI saw something that looked vaguely like a track and decided to try to follow that. After a short section of slightly less awful bike-pushing I got to a serious-looking gate and fence. I was in doubt for a few moments between hopping the fence or going back to the mud. The fact that I have seen large herd-protecting dogs around that don't take too kindly to interlopers made me decide to turn back and go for more bike-pushing instead.\n\nAfter a grueling hour of pushing and panting I saw the trail that I was supposed to be following up to the main road. It still wasn't much, but at least a lot better than the fields. By that moment I was almost up the hill anyway, so I could start doing some proper cycling.\n\nMy rural detour put me a bit behind schedule, so I had to keep up a bit of speed to make it to Florance before dark. The scenery was really amazing, I would say one of the best cycling stretches of my trip.\n\nI did not make it to my hostel before sunset. However, that did allow me to see a sunset of Florance from the hills, which is absolutely magical.\n\nThe day after arriving I got a text from my aunt Trudi, asking for advice on how to deal with the dogs on the \"trail\" I \"followed\". Apparently they were less lucky then me and they had to resort to rock-throwing to keep them at bay. I think I will just take a normal road next time when I think I can take a short-cut...\n",
+    "created": "2021-09-25T00:00:00.000Z",
+    "coordinates": {
+      "long": 11.2453225,
+      "lat": 43.7683139
+    },
+    "index": 36
+  },
+  {
+    "id": "d566cfc6-8ab5-4be2-9420-f4903b3cb1e5",
+    "title": "Guesthouse in the hills",
+    "long": 11.349903303503847,
+    "lat": 43.73830673572087,
+    "created_at": "2021-09-26T00:00:00.000Z",
+    "updated_at": "2021-10-02T11:32:10.305Z",
+    "images": [
+      {
+        "id": "167cfd93-1cdd-4fe5-8b7c-dfaaf02f568a",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/bigallo-uitzicht.JPG",
+        "description": "",
+        "created_at": "2021-10-02T11:19:48.278+00:00",
+        "updated_at": "2021-10-02T11:32:11.906+00:00",
+        "turn": null,
+        "created": "2021-10-02T11:19:48.278+00:00",
+        "updated": "2021-10-02T11:32:11.906+00:00"
+      },
+      {
+        "id": "56f0134a-02c1-4449-b78a-c46697e1a2b9",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/uitzichtopdome.JPG",
+        "description": "",
+        "created_at": "2021-10-02T11:21:12.354+00:00",
+        "updated_at": "2021-10-02T11:32:11.902+00:00",
+        "turn": null,
+        "created": "2021-10-02T11:21:12.354+00:00",
+        "updated": "2021-10-02T11:32:11.902+00:00"
+      },
+      {
+        "id": "cef42487-b446-48c8-a087-09ecad265605",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/hagedisinbigallo.JPG",
+        "description": "",
+        "created_at": "2021-10-02T11:24:39.405+00:00",
+        "updated_at": "2021-10-02T11:32:11.912+00:00",
+        "turn": null,
+        "created": "2021-10-02T11:24:39.405+00:00",
+        "updated": "2021-10-02T11:32:11.912+00:00"
+      },
+      {
+        "id": "a83edbd4-f30b-4f15-9d7c-7242f9c1b161",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/bigallo.JPG",
+        "description": "",
+        "created_at": "2021-10-02T11:25:28.729+00:00",
+        "updated_at": "2021-10-02T11:32:11.914+00:00",
+        "turn": null,
+        "created": "2021-10-02T11:25:28.729+00:00",
+        "updated": "2021-10-02T11:32:11.914+00:00"
+      }
+    ],
+    "content": "After two days in Florence I found a hostel in the hills nearby that looked amazing. It was an ancient [guesthouse](http://www.anticospedalebigallo.it/ostellobigallo-eng/) in the Florentine hills, about 10km away from the city center. I decided that another night to socialize a bit, but still be somewhere quiet, would be a good idea.\n\nThe views were amazing and you get a perfect communal meal on the balcony. That night we had a good mix of seasoned travelers. We had an ex-special forces Israeli, a young American couple of rocket scientists,  an Elon Musk-fanboy and a British digital nomad obsessed with pyramids who claimed to be working on a Christian meditation app supported by both the Vatican and all major evangelical denominations.\n\n",
+    "created": "2021-09-26T00:00:00.000Z",
+    "coordinates": {
+      "long": 11.349903303503847,
+      "lat": 43.73830673572087
+    },
+    "index": 37
+  },
+  {
+    "id": "9e4d9f98-3b79-48f7-aea2-9dc453a211f5",
+    "title": "Three Italian B&Bs: 1",
+    "long": 11.325511341515464,
+    "lat": 43.962165410044996,
+    "created_at": "2021-09-27T00:00:00.000Z",
+    "updated_at": "2021-10-04T07:01:20.048Z",
+    "images": [
+      {
+        "id": "b220c718-1772-4b4d-bca8-cb89d7af7354",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/mannetjesinbar.jpg",
+        "description": "",
+        "created_at": "2021-10-03T08:04:56.285+00:00",
+        "updated_at": "2021-10-04T07:01:22.271+00:00",
+        "turn": null,
+        "created": "2021-10-03T08:04:56.285+00:00",
+        "updated": "2021-10-04T07:01:22.271+00:00"
+      }
+    ],
+    "content": "I knew that we would be getting intense thunderstorms the afternoon after leaving the Florentine hills towards the east coast of Italy. Having experienced being in a tent during a thunderstorm before, I decided to book an Airbnb nearby in San Piero a Sieve. The host told me he would be home by five, so I knew I would have to spend some time in a restaurant and/or a bar (the horror!) while waiting for him.\n\nI had an amazing lunch in osteria \"Buffo\" (Mustache), being served by an older man with a very impressive facial hair, presumably the owner and namesake. Just before the storm started I managed to cross two streets to the local bar. I found a place in the corner to sit and read while all the older men of the village were gathered in the bar to watch Firenze vs Udine.\n\nWhen the storm did hit it seemed like the end of the world. We had massive hailstones, a lot of thunder and very strong winds. The girl behind the bar sounded a bit worried for me, but I reassured her that I had a bed in the village a few streets away. \n\nAround half past four my host messaged me that he would be home by six instead of five. If people text you that they will be an hour late, I'd always add at least another half hour for unexpected extra delays. Luckily, I was sitting in a dry place reading a bit. After cycling for a while and dealing with a lot of chaos, a small delay really doesn't bother me any more, as long as I have shelter, food and something to drink.\n\nWhen he arrived from work at around quarter to seven the rain stopped and I was able to walk normally to his place. He lived in a cute old-school house close to town. He apologized several times and promised me to make me extra nice breakfast, which turned out to be good cheese with fried eggs. \n\nMy [host](https://www.airbnb.ae/rooms/7382434) turned out to be an ex-big-firm lawyer, who decided to go for a more low-key lifestyle organizing local festivities and hosting people on Airbnb after becoming depressed. He said he had a lot less money, but was a lot happier now. His hobby of collecting oriental art did suffer from his career switch, but he now replaced collecting with researching and visiting museums. \n\n",
+    "created": "2021-09-27T00:00:00.000Z",
+    "coordinates": {
+      "long": 11.325511341515464,
+      "lat": 43.962165410044996
+    },
+    "index": 38
+  },
+  {
+    "id": "a2cd6ed6-7557-4607-a8c1-d3886a96ff82",
+    "title": "Three Italian B&Bs: 2",
+    "long": 12.041099591747917,
+    "lat": 44.21975209480242,
+    "created_at": "2021-09-28T00:00:00.000Z",
+    "updated_at": "2021-10-04T06:56:58.107Z",
+    "images": [
+      {
+        "id": "c550fdc2-39c4-48c1-83e0-f0f8afc95b51",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/pasbordappenijnen.jpg",
+        "description": "",
+        "created_at": "2021-10-04T06:56:58.255+00:00",
+        "updated_at": "2021-10-04T06:56:58.255+00:00",
+        "turn": null,
+        "created": "2021-10-04T06:56:58.255+00:00",
+        "updated": "2021-10-04T06:56:58.255+00:00"
+      }
+    ],
+    "content": "To get to the east coast of Italy I would still need to cross the Apennines. Luckily I managed to find a pass with great roads, very little traffic, manageable inclines and only about 913 meters in altitude. My expectation was that I would be struggling the entire day to get up it, but in the end I managed to make it across the mountain range at about four, leaving me with a bit of time to cover some extra distance towards the ferry-port of Ancona.\n\nThe road towards the coast was very busy, straight and a bit dull. I decided to have a look for an B&B to treat myself after covering a long distance today. I managed to find a [nice place](https://www.booking.com/hotel/it/b-amp-b-anna-forli.nl.html) just on the edge of town.\n\nAfter arriving the owner, a grandma-type who did not speak any English, was so impressed that I cycled there that I was immediately handed a beer and sent upstairs to get some sleep. I thoroughly enjoyed watching a couple of episodes of a Netflix series in my private room with decent WiFi. In the morning she set me up with a huge breakfast of fancy cheese, home-made jams and lots of other goodies. \n\nI think she was afraid I would go hungry, so she packed up some of the leftovers for me to have lunch on, which I very much enjoyed later that day.",
+    "created": "2021-09-28T00:00:00.000Z",
+    "coordinates": {
+      "long": 12.041099591747917,
+      "lat": 44.21975209480242
+    },
+    "index": 39
+  },
+  {
+    "id": "9c9c3ca5-3991-42b7-b6d8-805e533afea9",
+    "title": "Three Italian B&Bs: 3",
+    "long": 12.752811849797437,
+    "lat": 43.89862654748906,
+    "created_at": "2021-09-29T00:00:00.000Z",
+    "updated_at": "2021-10-04T06:58:19.971Z",
+    "images": [
+      {
+        "id": "891bd72a-3aa0-4803-ba26-c0525afbd997",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/overdreventheedoeken.jpg",
+        "description": "",
+        "created_at": "2021-10-04T06:58:20.069+00:00",
+        "updated_at": "2021-10-04T06:58:20.069+00:00",
+        "turn": null,
+        "created": "2021-10-04T06:58:20.069+00:00",
+        "updated": "2021-10-04T06:58:20.069+00:00"
+      }
+    ],
+    "content": "I arrived at my third B&B after passing the coastline between Rimini and Cattolica. Even though the cycling was alright, the crass mass tourism in off-season mode was just a bit depressing. I booked the room purely based on price and location, so I expected very little from what I would be getting.\n\nThe village I was in was just a small bit of cycling inland from the coastline. When you are only a few kilometers inland, you leave tourist-dystopia and you are back in Italy again! Calm, hills and cute villages reappeared in the landscape.\n\nArriving at the B&B I was pretty confused. The place I was sent to was a [villa](https://www.airbnb.ae/rooms/36839281), with a swimming pool and a perfect view of the rolling hills. That can't be the right, I just booked the cheapest bed available nearby. But no, I was ushered in by the hostess and sent to my room. I was the only guest that night, so I also had access to the massive kitchen to prepare some food (quinoa-ratatouille soup, not too bad if you've had a bit too much cheese lately). \n\nThe most crazy part of this luxury is that I got a gift set of floral-print kitchen towels, with a kind note attached to them. I think a place like this would be great to stay in for a few weeks, but I had a ferry to catch the next day.\n\n\n",
+    "created": "2021-09-29T00:00:00.000Z",
+    "coordinates": {
+      "long": 12.752811849797437,
+      "lat": 43.89862654748906
+    },
+    "index": 40
+  },
+  {
+    "id": "805e10f0-38a0-4a88-8b09-8a3601eb3cbe",
+    "title": "Simon and Lucy",
+    "long": 13.505622291729331,
+    "lat": 43.62155138961376,
+    "created_at": "2021-09-30T00:00:00.000Z",
+    "updated_at": "2021-10-04T07:04:22.572Z",
+    "images": [
+      {
+        "id": "e59aac21-9eeb-4af6-975e-2313251fe953",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/simonenlucy.JPG",
+        "description": "",
+        "created_at": "2021-10-04T06:50:24.724+00:00",
+        "updated_at": "2021-10-04T07:04:24.562+00:00",
+        "turn": "left",
+        "created": "2021-10-04T06:50:24.724+00:00",
+        "updated": "2021-10-04T07:04:24.562+00:00"
+      }
+    ],
+    "content": "I booked my ferry without a cabin again. Somehow the ferries trying to get you to buy extra stuff makes me very determined not to give them an extra cent more than my ticket price.\n\nGetting from Ancona to the port was a bit of a challenge. I first went to the port, was sent back to the \"check-in\" office on the other part of town, while I had to end up in the port again to board the actual ship.\n\nAn older Dutch couple got into a fight with a security guard because an email said that they had to be there *at least* two hours before departure, while passengers were only allowed at the port *starting from* two hours before departure. This did not compute for them, and they were going back and forth between the security guard at the port and the people behind the ticket desks to \"sort this out\".\n\nAt the ticket office I found two other cyclists, Simon and Lucy. They are doing a round-the-world trip starting from Guernsey, hoping to be back there in two years. We bonded a bit over bike touring gear, pack size (Simon even had his violin with him, so compared to them I was being ultra-light in my setup), software we wrote ([this](https://www.gonecycling.com/) is their website) and life on the road.\n\nAfter a huge feast of all the different snacks we brought on the ship they even invited me over to sleep on the extra bed in their cabin! We just got a long really nicely. Somehow other long-distance cyclists do not feel like strangers at all, but just friends you have yet to meet.\n\nNext morning we had a breakfast at the port in Split and a cup of coffee near the coast, after which I went towards my hostel and they went towards Dubrovnik, Athens, China, Australia and somehow back to Guernsey.",
+    "created": "2021-09-30T00:00:00.000Z",
+    "coordinates": {
+      "long": 13.505622291729331,
+      "lat": 43.62155138961376
+    },
+    "index": 41
+  },
+  {
+    "id": "6d67588f-ab35-48d8-874c-f4e19c354133",
+    "title": "Split",
+    "long": 16.44808803891484,
+    "lat": 43.51303689402182,
+    "created_at": "2021-10-03T00:00:00.000Z",
+    "updated_at": "2021-10-10T16:05:52.317Z",
+    "images": [
+      {
+        "id": "3e076c6f-d984-48aa-bdc4-75737f9e970d",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/ralphsplit.jpg",
+        "description": "Found this on a hike",
+        "created_at": "2021-10-10T14:40:28.651+00:00",
+        "updated_at": "2021-10-10T16:05:53.588+00:00",
+        "turn": null,
+        "created": "2021-10-10T14:40:28.651+00:00",
+        "updated": "2021-10-10T16:05:53.588+00:00"
+      }
+    ],
+    "content": "Having been to Croatia before I was expecting to mostly experience the crass mass-tourism that you get to see all along the coastline. Split obviously still had some pretty annoyingly touristy things, like some guys dressed up as Roman soldiers for people to take selfies with, but it also had some charm of its own. \n\nInstead of just having foreigners in all the nice fancy places and all the Croats in rundown bars with holes in them, you have some nice in-between places aimed at the local population that are nice to visit as an outsider and some touristy places that also cater to the Croatians that feel like splurging a bit. This mix gave the place more of a \"natural\" feel, compared to the theme-parks for grown-ups you have elsewhere.\n\nWith the season ending, the number of people in towns like this goes down, but I feel that the people I do meet tend to be more interesting. In my hostel about half of the people were traveling long term and seemed to be a bit older then the regular Eurotripping crowd you get elsewhere. We had a Canadian professor in parasitology writing her research grants for her Rwandan university on the road, a German biology post-doc writing an article on sea creatures rafting on plastic and an Argentinian woman working at the hostel to keep costs down while also finishing her courses online.\n",
+    "created": "2021-10-03T00:00:00.000Z",
+    "coordinates": {
+      "long": 16.44808803891484,
+      "lat": 43.51303689402182
+    },
+    "index": 42
+  },
+  {
+    "id": "b7490e1c-0adc-4c79-9ab4-475dca4c2e9e",
+    "title": "Roommate roulette",
+    "long": 15.895858137475537,
+    "lat": 43.73397746115677,
+    "created_at": "2021-10-06T00:00:00.000Z",
+    "updated_at": "2021-10-10T15:20:43.153Z",
+    "images": [
+      {
+        "id": "fae9da23-48da-448d-9d50-6c33d74a15c6",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/gastinbar.jpg",
+        "description": "just someone at a bar",
+        "created_at": "2021-10-10T14:46:36.78+00:00",
+        "updated_at": "2021-10-10T15:20:45.366+00:00",
+        "turn": null,
+        "created": "2021-10-10T14:46:36.78+00:00",
+        "updated": "2021-10-10T15:20:45.366+00:00"
+      },
+      {
+        "id": "a4cb0179-4911-4925-8c88-ec6954f5ba7d",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/sebasenik.jpeg",
+        "description": "me and Sebas",
+        "created_at": "2021-10-10T14:47:18.966+00:00",
+        "updated_at": "2021-10-10T15:20:45.445+00:00",
+        "turn": null,
+        "created": "2021-10-10T14:47:18.966+00:00",
+        "updated": "2021-10-10T15:20:45.445+00:00"
+      }
+    ],
+    "content": "In Šibenik I booked a hostel room for three nights since I knew we were getting some very bad weather. When checking into the very empty hostel, I decided to take the dorm room with someone in it already. This would be my first roommate, Anna. \n\nAnna is a Polish woman who decided to take a holiday to Croatia for a week. She just quit her job in an annoying IT company to teach business-English, which she spoke exceptionally well. We went out for a few drinks and met up for breakfast in a fancy but cheap place across the square from the hostel. \n\nAfter Anna left I had the room for myself for a couple of hours. Then Vanessa came in, a literary translator from Switzerland living in the Czech republic, scouting for a place in Croatia to live. We made a few jokes about her murdering in me in my sleep and being comforted by that, I invited her over to share some dinner in the kitchen. Next morning we realized that we were both heading to Zadar, where we met up for a dinner and drinks again.\n\nThe third day the real bad weather started. We had continuous heavy rain and strong wind during the entire day. Late in the afternoon a drenched cyclist entered my room. He was a fellow Dutchman, cycling to the south, who has a [thing](https://www.instagram.com/bordvoor.jekop.2020/?hl=en) for making selfies with signposts along the road. I offered Sebas a plate of food and he offered me his wine, after which we went for a few more drinks in town. We chatted with a local bar-owner who was decorating her new place with fancy lights and making pretty pictures of her Halloween-setup. ",
+    "created": "2021-10-06T00:00:00.000Z",
+    "coordinates": {
+      "long": 15.895858137475537,
+      "lat": 43.73397746115677
+    },
+    "index": 43
+  },
+  {
+    "id": "0ededc5b-db9e-4205-aeb0-cb9468fb817b",
+    "title": "Flat tires suck: 3 (ft. A Broken Chain)",
+    "long": 15.2262669,
+    "lat": 44.1143488,
+    "created_at": "2021-10-08T00:00:00.000Z",
+    "updated_at": "2021-10-10T15:43:25.249Z",
+    "images": [
+      {
+        "id": "bcc0d05e-035d-4b3b-818a-b8632f64bf9c",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/siberniklek1.jpg",
+        "description": "",
+        "created_at": "2021-10-10T15:35:18.056+00:00",
+        "updated_at": "2021-10-10T15:43:26.994+00:00",
+        "turn": null,
+        "created": "2021-10-10T15:35:18.056+00:00",
+        "updated": "2021-10-10T15:43:26.994+00:00"
+      },
+      {
+        "id": "aefc3540-2f89-44c6-a2b1-fc307e83778d",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/siberniklek2.jpg",
+        "description": "",
+        "created_at": "2021-10-10T15:41:17.614+00:00",
+        "updated_at": "2021-10-10T15:43:26.998+00:00",
+        "turn": null,
+        "created": "2021-10-10T15:41:17.614+00:00",
+        "updated": "2021-10-10T15:43:26.998+00:00"
+      },
+      {
+        "id": "85967e81-3f89-4e3a-a8a5-fbe98c459ad5",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/uitzichtkroatie1.JPG",
+        "description": "",
+        "created_at": "2021-10-10T15:41:52.524+00:00",
+        "updated_at": "2021-10-10T15:43:27.006+00:00",
+        "turn": null,
+        "created": "2021-10-10T15:41:52.524+00:00",
+        "updated": "2021-10-10T15:43:27.006+00:00"
+      },
+      {
+        "id": "bdd5d31e-4d40-4e42-97b2-6893b156070a",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/sibernikfietspad.jpg",
+        "description": "",
+        "created_at": "2021-10-10T15:42:51.01+00:00",
+        "updated_at": "2021-10-10T15:43:27.007+00:00",
+        "turn": null,
+        "created": "2021-10-10T15:42:51.01+00:00",
+        "updated": "2021-10-10T15:43:27.007+00:00"
+      }
+    ],
+    "content": "If you are a regular reader of this blog so far, you probably think that I have messed up fixing tires in every conceivable way. Well, think again!\n\nThis time I managed to remove my wheel, replace my inner tube and put everything back where it belongs in about 15 minutes. That part I am quite good at by now.\n\nMy problem this time was that I pocketed the tiny metal ring that fixes the valve of the inner tube to the rim from my broken tire. Then when screwing this ring on, I did not take it from the spare, but from the old inner tube. This meant that there were two metal rings on the valve, on the outside where it should be and the one from the spare still fixed to the valve on the inside. Since the metal ring on the inside is quite sharp, it caused a leak about 20 km along the road.\n\nUncharacteristically, I competently fixed the second leak. So, I should be able to actually get to where without any further problems, right? Right ...?\n\nNope. A bit further my chain broke. I think I bent the outsides of one of the link a bit too far when replacing the chain. This causes the tension on the chain to be skewed to one side, which in this case led to one of the halves of a link being split in half. \n\nEven using a quick-link to repair the chain I had to resort to my chain breaker to get them to work properly. Somehow I managed to get them entangled before the quick-link was fixed in place, which I had to forcibly pop out. I had to do some sketchy magic to get the link in place, but it seems pretty solid, for now...",
+    "created": "2021-10-08T00:00:00.000Z",
+    "coordinates": {
+      "long": 15.2262669,
+      "lat": 44.1143488
+    },
+    "index": 44
+  },
+  {
+    "id": "405b5409-9bf7-4109-8639-f5b45b39cdc7",
+    "title": "Blown away",
+    "long": 15.47428100140524,
+    "lat": 44.2110303722996,
+    "created_at": "2021-10-10T00:00:00.000Z",
+    "updated_at": "2021-10-10T16:04:57.483Z",
+    "images": [
+      {
+        "id": "0f1ab4ee-b1b3-4b56-b61b-48c3589a362a",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/langerechtewegkroatie.JPG",
+        "description": "",
+        "created_at": "2021-10-10T15:45:36.106+00:00",
+        "updated_at": "2021-10-10T16:04:58.987+00:00",
+        "turn": null,
+        "created": "2021-10-10T15:45:36.106+00:00",
+        "updated": "2021-10-10T16:04:58.987+00:00"
+      },
+      {
+        "id": "498f5200-fd59-426b-a5e1-913c183c9d94",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/klifuitzichtkroatie.JPG",
+        "description": "",
+        "created_at": "2021-10-10T15:46:23.753+00:00",
+        "updated_at": "2021-10-10T16:04:59.05+00:00",
+        "turn": null,
+        "created": "2021-10-10T15:46:23.753+00:00",
+        "updated": "2021-10-10T16:04:59.05+00:00"
+      },
+      {
+        "id": "c305429c-4d9a-4c80-86e3-aa0c897570e8",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/achtertuinschaapjes.JPG",
+        "description": "",
+        "created_at": "2021-10-10T15:47:18.477+00:00",
+        "updated_at": "2021-10-10T16:04:59.063+00:00",
+        "turn": null,
+        "created": "2021-10-10T15:47:18.477+00:00",
+        "updated": "2021-10-10T16:04:59.063+00:00"
+      },
+      {
+        "id": "82f85f7c-6e17-41c4-9a87-04d3a453d84c",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/wildkampeerstrandtent.jpg",
+        "description": "",
+        "created_at": "2021-10-10T15:48:20.124+00:00",
+        "updated_at": "2021-10-10T16:04:59.061+00:00",
+        "turn": null,
+        "created": "2021-10-10T15:48:20.124+00:00",
+        "updated": "2021-10-10T16:04:59.061+00:00"
+      }
+    ],
+    "content": "Back in my hostel in Šibenik the owner of the hostel warned me that from this point onwards in the year the *some slavic word I didn't remember* was blowing through the mountains. She told me and Sebas to be careful on the bike. You have to be a special kind of idiot to ignore a warning from a local saying a *named* wind was haunting the mountains. Obviously I am that kind of idiot. Back when I was in high school we also cycled through pretty rough weather, so I figured cycling in a bit of wind would be fine.\n\nBefore climbing to high the wind was tough, but still not as bad as I've had back home or in the Alps. I saw some amazing sights, cool vista's, ghost towns and a flock of sheep casually wandering in someone's back yard. When I climbed higher the wind became more and more intense. It came to a point that it was hard to properly stand on two feet, let alone cycle on a busy road without a proper place for a bicycle to be on. They even closed the main road as the wind made it too dangerous for cars to properly get past it. After a short attempt to bypass the blockade by taking an dirt road around, I took a break to check a weather app whether there was any possibility of this madness stopping.\n\nAccording to the internet this was a 4 on the Beaufort scale (which I highly doubt). Up where I was going in the mountains the wind would be a 7 on that scale, and keep blowing that way for at least the next two days. This was too much for me, and I decided to sail back. \n\nI headed for a reasonable-sided tourist town by the water, Posedarje. According to both Google and Booking.com there would be plenty of places to sleep for reasonable prices. While about half the houses in that town had a sign advertising *apartman* or *zimmer*, all the locals were very confused about me wanting one at this time. The tourist season ended a week ago, so everyone was back minding their own business, and no-one expected anyone to visit anymore.\n\nI stopped looking for a room to rent and started looking for some empty building to shelter me from the wind. A short distance from the town I found a real pearl, the local beach club. It was completely empty, but still easy to access and with plenty of shelter for the wind. I settled down there for the night and headed back to Zadar next morning to figure out some public transport alternative to get me and my bicycle to Zagreb.",
+    "created": "2021-10-10T00:00:00.000Z",
+    "coordinates": {
+      "long": 15.47428100140524,
+      "lat": 44.2110303722996
+    },
+    "index": 45
+  },
+  {
+    "id": "f2539ec7-0030-441f-95b5-3b12eae0fdab",
+    "title": "Zagreb",
+    "long": 15.968564929187567,
+    "lat": 45.803647956052316,
+    "created_at": "2021-10-13T00:00:00.000Z",
+    "updated_at": "2021-10-19T14:15:15.555Z",
+    "images": [
+      {
+        "id": "56c4aaf7-ebce-4061-b5e6-b8b2bb62de2f",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/zagreb-tunnel.JPG",
+        "description": "",
+        "created_at": "2021-10-19T13:47:28.665+00:00",
+        "updated_at": "2021-10-19T14:15:16.707+00:00",
+        "turn": "",
+        "created": "2021-10-19T13:47:28.665+00:00",
+        "updated": "2021-10-19T14:15:16.707+00:00"
+      },
+      {
+        "id": "2d189cf5-9beb-4450-b812-93ededdb1210",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/zagreb-kerk.JPG",
+        "description": "",
+        "created_at": "2021-10-19T13:48:51.142+00:00",
+        "updated_at": "2021-10-19T14:15:16.71+00:00",
+        "turn": null,
+        "created": "2021-10-19T13:48:51.142+00:00",
+        "updated": "2021-10-19T14:15:16.71+00:00"
+      },
+      {
+        "id": "fc1fb025-249b-4342-81cb-daf66a2f4112",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/souvenirs.JPG",
+        "description": "",
+        "created_at": "2021-10-19T13:49:26.01+00:00",
+        "updated_at": "2021-10-19T14:15:16.712+00:00",
+        "turn": null,
+        "created": "2021-10-19T13:49:26.01+00:00",
+        "updated": "2021-10-19T14:15:16.712+00:00"
+      }
+    ],
+    "content": "I had some typical \"first world\" problems with booking a ticket for both me and my bicycle to go to Zagreb. On the internet I could only find tickets where you might be able to take your bike with, but none would guarantee it. All companies had the policy that the bus driver could decide if there is enough space in the hold during boarding. My organized Dutch brain was a bit panicked by this, I got used to getting confirmations and guarantees when booking stuff, and got worried about having to spend the entire day hoping to get a spot on the bus for the both of us.\n\nLuckily I got myself together, and accepted that sometimes you need to trust the old-school way of doing things. In this case it was just showing up to the bus station, asking a bored-looking middle-aged woman in broken English how to get my bike to Zagreb, and then handing the chauffeur of the bus she pointed me to a wad of cash. I have no idea whether I paid the \"official\" rate, but at least it got me where I wanted to go.\n\nArriving in Zagreb I felt a bit deflated. I don't like being on a bus that much, especially not when compared to being on a bike, and the communist-era bus station on the outskirts of the city looked depressing in the cloudy, cold autumn. It took me a couple of days to get my mojo back. I had an afternoon of climbing, met a fellow touring cyclist in a hostel and went out to get some amazing falafel with my buddy Vanessa from the hostel in Šibenik. \n\nAfter those days I have gotten quite attached to Zagreb. It has some nice Austro-Hungarian architecture, old communist-era areas, new hip coffee bars, big parks, amazing views from the hills and even a very Dutch-looking artificial lake with a pristine cycle path around it. Who knows, maybe one day I'll go and find a nice place to live in the Croatian capital. ",
+    "created": "2021-10-13T00:00:00.000Z",
+    "coordinates": {
+      "long": 15.968564929187567,
+      "lat": 45.803647956052316
+    },
+    "index": 46
+  },
+  {
+    "id": "9c68e4f2-7575-420e-92b2-901ff4dcba2b",
+    "title": "Missing Croatia",
+    "long": 16.979049523588795,
+    "lat": 46.45636097041522,
+    "created_at": "2021-10-16T00:00:00.000Z",
+    "updated_at": "2021-10-19T14:47:46.088Z",
+    "images": [
+      {
+        "id": "edd4e302-7664-495f-8601-dbcadf29edd6",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/sovietflat.JPG",
+        "description": "",
+        "created_at": "2021-10-19T14:17:37.508+00:00",
+        "updated_at": "2021-10-19T14:47:47.524+00:00",
+        "turn": null,
+        "created": "2021-10-19T14:17:37.508+00:00",
+        "updated": "2021-10-19T14:47:47.524+00:00"
+      },
+      {
+        "id": "becfa251-9f62-48d4-8e1e-e46e82160223",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/hongarije-meer.JPG",
+        "description": "",
+        "created_at": "2021-10-19T14:22:01.277+00:00",
+        "updated_at": "2021-10-19T14:47:47.53+00:00",
+        "turn": null,
+        "created": "2021-10-19T14:22:01.277+00:00",
+        "updated": "2021-10-19T14:47:47.53+00:00"
+      }
+    ],
+    "content": "After some amazing but very intense cycling through northern Croatia I arrived in Hungary. I got to my apartment and went looking for a restaurant to have some dinner in.\n\nThe first thing that made me miss Croatia was that I had absolutely no idea what anything meant. I have been trying, with very limited success, to learn Russian for ages. With a small vocabulary in another Slavic language I managed to figure out quite a lot of what words meant in the public space. I cannot understand an article in the newspaper (I tried), but I can figure out which pizza is vegetarian on a Croatian-only menu. Since Hungarian is not related to any language I speak, it is just a lot of vowels with silly dots on them that make no sense to me, like *csütörtök* (Thursday) and *gyönyörű* (beautiful).\n\nOn a practical level you would still be able to make yourself understood with some German and English. But I noticed that understanding what words around you say makes you feel a little more at home. I don't really care what a billboard says, but having no clue about whether it is selling me a mortgage or a soft-drink gives me a feeling of being disconnected with what is going on around me.\n\nThe second thing was the waiter actually being polite to me. In Croatia ordering food usually goes like this:\n\n**Me**: *Hello, could I have one of these please?*\n\n**Waiter**: *OK. This?*\n\n**Me**: *Yes, that one would be great*\n\n**Waiter**: *Twenty*\n\n**Me**: *Can I also pay by card? Or would you prefer cash?*\n\n**Waiter**: *TWENTY!*\n\n**Me**: *Here you go, have a nice day*\n\n**Waiter**: *Ok, bye*\n\nHaving someone ask if I had a nice meal and asking if I needed anything else just felt a bit off. I have gotten fond of the Croatian charming directness, bordering on rudeness. I'm not even sure what it is I like about it, but something of the bold no-nonsense approach to communication really appealed to me.  Probably I will get used again to the polite, soft-spoken Hungarian way of doing things, but for now their kind words made me miss Croatia.\n\nAt least one thing did not bother me at all. The fact that having a huge meal in one of the busier places in town, including a salad and something to drink, cost me less then 7 euros.\n\n",
+    "created": "2021-10-16T00:00:00.000Z",
+    "coordinates": {
+      "long": 16.979049523588795,
+      "lat": 46.45636097041522
+    },
+    "index": 47
+  },
+  {
+    "id": "ff16a759-88db-4290-958e-d60e4699c4e5",
+    "title": "Pecs",
+    "long": 18.24830965390644,
+    "lat": 46.07323062540835,
+    "created_at": "2021-10-18T00:00:00.000Z",
+    "updated_at": "2021-10-23T13:56:03.893Z",
+    "images": [
+      {
+        "id": "47a0e730-7151-4600-aa8d-5391e7f96dd3",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/uitzichtpecs.JPG",
+        "description": "",
+        "created_at": "2021-10-23T13:48:33.922+00:00",
+        "updated_at": "2021-10-23T13:56:05.851+00:00",
+        "turn": null,
+        "created": "2021-10-23T13:48:33.922+00:00",
+        "updated": "2021-10-23T13:56:05.851+00:00"
+      },
+      {
+        "id": "8ba8449a-bca2-45e0-a65d-d7c73a248137",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/kerkpecs.JPG",
+        "description": "",
+        "created_at": "2021-10-23T13:51:55.168+00:00",
+        "updated_at": "2021-10-23T13:56:05.902+00:00",
+        "turn": null,
+        "created": "2021-10-23T13:51:55.168+00:00",
+        "updated": "2021-10-23T13:56:05.902+00:00"
+      },
+      {
+        "id": "18ab57cf-3c7e-4626-9625-e5a68c8f24b6",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/pecs-fietspad.JPG",
+        "description": "",
+        "created_at": "2021-10-23T13:55:02.614+00:00",
+        "updated_at": "2021-10-23T13:56:05.906+00:00",
+        "turn": null,
+        "created": "2021-10-23T13:55:02.614+00:00",
+        "updated": "2021-10-23T13:56:05.906+00:00"
+      }
+    ],
+    "content": "After a few days of hard cycling in the south of Hungary I wanted to have a small break. I rented a stupidly luxurious [apartment](https://www.airbnb.com/rooms/41769753) for two nights with a good kitchen, a nice bed and a washing machine.  Being able to hang out in bed and watch a terrible Dutch soap (*Dertigers*) and having a vegan lunch at hipster coffee place was what I needed to get me re-energized (and significantly less smelly) for cycling a few more days along the Danube towards Budapest.",
+    "created": "2021-10-18T00:00:00.000Z",
+    "coordinates": {
+      "long": 18.24830965390644,
+      "lat": 46.07323062540835
+    },
+    "index": 48
+  },
+  {
+    "id": "352a29e1-63ec-4bcb-b21b-77fcd4e96ee0",
+    "title": "Trolley guy in Hungary",
+    "long": 18.92675567616289,
+    "lat": 46.17306830436163,
+    "created_at": "2021-10-19T00:00:00.000Z",
+    "updated_at": "2021-10-23T14:11:47.437Z",
+    "images": [
+      {
+        "id": "0f54de67-ef83-4f84-8758-938899c62493",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/winkelkarretjesman.jpg",
+        "description": "",
+        "created_at": "2021-10-23T13:58:50.979+00:00",
+        "updated_at": "2021-10-23T14:11:52.986+00:00",
+        "turn": null,
+        "created": "2021-10-23T13:58:50.979+00:00",
+        "updated": "2021-10-23T14:11:52.986+00:00"
+      }
+    ],
+    "content": "In Baja (not Baja California, but Baja middle-of-nowhere Hungary) I booked the [cheapest](https://www.facebook.com/Bristol-Apartments-420944768408409/) bed I could find though booking.com. This time it happened to be an appendix to a language school run by a British expat.\n\nOn the wall I found a few news paper articles of various crazy things some guy has done: flying a micro-light across the British channel, cycling 100 miles in 4 hours and, most impressively, riding a jet-powered shopping trolley. When I saw the owner walk across I asked him whether he was the man in those articles. He said yes, he was the trolley-guy. \n\nHe complained that after he dies, he would always be remembered as \"the guy who strapped a jet-engine to a shopping trolley\". Apparently this was not a huge success, he suffered bad burns on his shoulder but managed to survive because he wore a Formula-1 style helmet. \n\nWell, if you don't want to be remembered as \"the trolley guy\", don't put a picture on the wall with you in a trolley.",
+    "created": "2021-10-19T00:00:00.000Z",
+    "coordinates": {
+      "long": 18.92675567616289,
+      "lat": 46.17306830436163
+    },
+    "index": 49
+  },
+  {
+    "id": "b5ad7960-4325-46e1-bde1-b50d6ecc95ef",
+    "title": "Dutch Danube",
+    "long": 18.903621822049228,
+    "lat": 46.805101608149286,
+    "created_at": "2021-10-20T00:00:00.000Z",
+    "updated_at": "2021-10-23T15:24:18.573Z",
+    "images": [
+      {
+        "id": "71b40420-cac0-4586-a3c3-aa25563ad178",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/koeienopdijk.JPG",
+        "description": "",
+        "created_at": "2021-10-23T14:14:25.588+00:00",
+        "updated_at": "2021-10-23T15:24:20.093+00:00",
+        "turn": null,
+        "created": "2021-10-23T14:14:25.588+00:00",
+        "updated": "2021-10-23T15:24:20.093+00:00"
+      },
+      {
+        "id": "9fa86ee8-0efa-41ff-80ab-7adec0a62c90",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/fietsopbestratedijkhongarije.JPG",
+        "description": "",
+        "created_at": "2021-10-23T14:22:31.695+00:00",
+        "updated_at": "2021-10-23T15:24:20.105+00:00",
+        "turn": null,
+        "created": "2021-10-23T14:22:31.695+00:00",
+        "updated": "2021-10-23T15:24:20.105+00:00"
+      },
+      {
+        "id": "83653996-4be3-41a3-b69b-0d0069147de5",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/vegomeukhongarije.jpg",
+        "description": "The vegan section of the Aldi was even better then at home",
+        "created_at": "2021-10-23T14:24:04.759+00:00",
+        "updated_at": "2021-10-23T15:24:20.103+00:00",
+        "turn": null,
+        "created": "2021-10-23T14:24:04.759+00:00",
+        "updated": "2021-10-23T15:24:20.103+00:00"
+      },
+      {
+        "id": "fcb3e412-7933-403a-ae2e-41a78c06aa23",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/campingintdonker.jpg",
+        "description": "",
+        "created_at": "2021-10-23T14:25:19.966+00:00",
+        "updated_at": "2021-10-23T15:24:20.139+00:00",
+        "turn": null,
+        "created": "2021-10-23T14:25:19.966+00:00",
+        "updated": "2021-10-23T15:24:20.139+00:00"
+      }
+    ],
+    "content": "Riding along the Danube feels extremely familiar to a Dutchman. You get well-paved cycle paths on a dyke with a views of flat farms. I even found a herd of Frisian cows grazing on my cycle path.  While you would expect that for vegetarians central Europe would be horrible, I found a familiar selection of fancy vegan cheeses in the Aldi of a small town on the road. \n\nWhen the sun started to set I started looking for a place to pitch my tent. I expected to have to find a place in the bushes to wild camp. Just when I started to really look for a spot, I saw signs pointing towards a camping. Because it was late October already, I was not expecting much.\n\nThe first thing I heard was someone speaking slightly faulty German with a German. Given that this is a camping, I figured that the first person must be Dutch. And yes, of course I found a Dutch couple in a camper in this Hungarian town. \n\nWhile it was nice to feel at home again, I do wonder why you would even bother leaving if you just get to see Dutch people and Dutch landscapes all day long.",
+    "created": "2021-10-20T00:00:00.000Z",
+    "coordinates": {
+      "long": 18.903621822049228,
+      "lat": 46.805101608149286
+    },
+    "index": 50
+  },
+  {
+    "id": "9f2df4ab-2feb-4596-96ec-61594eebac9c",
+    "title": "Entering Nala's world",
+    "long": 18.939901329734223,
+    "lat": 47.188118135836326,
+    "created_at": "2021-10-21T00:00:00.000Z",
+    "updated_at": "2021-11-06T11:36:18.405Z",
+    "images": [
+      {
+        "id": "45e85a6a-cd0e-4fb9-97c5-d82f705c0eba",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/deanennala.jpg",
+        "description": "",
+        "created_at": "2021-10-23T14:39:59.75+00:00",
+        "updated_at": "2021-11-06T11:36:19.856+00:00",
+        "turn": "left",
+        "created": "2021-10-23T14:39:59.75+00:00",
+        "updated": "2021-11-06T11:36:19.856+00:00"
+      },
+      {
+        "id": "705f86ca-480a-4286-97dd-e36ee47ea7a9",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/hurkenselfie.JPG",
+        "description": "messing with the self-timer",
+        "created_at": "2021-10-23T14:49:04.831+00:00",
+        "updated_at": "2021-11-06T11:36:19.844+00:00",
+        "turn": null,
+        "created": "2021-10-23T14:49:04.831+00:00",
+        "updated": "2021-11-06T11:36:19.844+00:00"
+      },
+      {
+        "id": "2b51ac55-6cae-4036-a47e-963a95fc945a",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/staandeselfie.JPG",
+        "description": "trying to look casual",
+        "created_at": "2021-10-23T14:51:32.247+00:00",
+        "updated_at": "2021-11-06T11:36:19.841+00:00",
+        "turn": null,
+        "created": "2021-10-23T14:51:32.247+00:00",
+        "updated": "2021-11-06T11:36:19.841+00:00"
+      }
+    ],
+    "content": "Before I left I channeled my impatience about my upcoming journey into reading and viewing about other long distance cyclists. I have collected most books from a [woman](https://maricavandermeer.nl/?page_id=22) who cycled most of the world by herself and I have viewed videos from a [guy](https://www.youtube.com/channel/UCuNy42Y5egf07cSiHbF23wg) who rode a unicycle around the entire world. The last [book](https://www.1bike1world.com/book/) I bought was from someone who adopted a cat while attempting an around-the-world cycle tour.\n\nIn my entire trip in Hungary I have not spotted a single touring cyclist, so when I saw one sitting in a field I immediately decided to turn around and have a chat. He looked vaguely familiar, but I knew who he was when I saw his cat sitting in his handlebar-basket. It was Dean (human) and Nala (cat), from the book I last read! \n\nThey just started cycling again after Dean took some time recovering from a leg injury and were now heading towards Croatia. Nala looked a bit bigger then her picture on the book I bought, but she seemed like a happy, healthy cat, doing what she wanted to be doing. We chatted for a bit and he asked me if I had an online presence of some sort, and I gave him this blog.\n\nChances are you are now reading this because of Dean, since after he shared the link to this blog on his hugely popular [Instagram account](https://www.instagram.com/1bike1world/) (close to one million followers), the traffic on my website went from less then 10 persons per day to over 2.000 on the day he made his post. \n\nThanks for that, and happy trails, Dean and Nala!",
+    "created": "2021-10-21T00:00:00.000Z",
+    "coordinates": {
+      "long": 18.939901329734223,
+      "lat": 47.188118135836326
+    },
+    "index": 51
+  },
+  {
+    "id": "7e62606a-598e-45d9-a459-e4eab937a136",
+    "title": "Going home (for winter)",
+    "long": 19.039416984106836,
+    "lat": 47.48998762898797,
+    "created_at": "2021-10-24T00:00:00.000Z",
+    "updated_at": "2021-11-06T10:52:42.751Z",
+    "images": [
+      {
+        "id": "da0bbb68-6eac-41f7-9cfb-4f56f976d3ed",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/budapest-gebouw.JPG",
+        "description": "",
+        "created_at": "2021-11-06T10:29:32.868+00:00",
+        "updated_at": "2021-11-06T10:52:44.416+00:00",
+        "turn": null,
+        "created": "2021-11-06T10:29:32.868+00:00",
+        "updated": "2021-11-06T10:52:44.416+00:00"
+      }
+    ],
+    "content": "I have been following the news about corona in the Balkans closely. The deciding moment for me was hearing about the experience in Romania, where I was planning to spend winter, from other travelers. They described a situation more grim than what we have had to endure during the peak of the pandemic. With the very low vaccination rate (around 30 percent) and sub-optimal health care the pandemic was at an absolute peak. The mortality was in some places so bad according that apparently the amount of hearses carrying deceased victims was causing deadlocks in traffic.\n\nThat does not sound like a place I should be spending winter, on my own in a shabby room somewhere I don't know anyone. I briefly considered some alternative places to spend winter, but none of them appealed to both me and my wallet. While I planned to spend winter somewhere else to get a taste of what it would be to emigrate, I think this winter was not the time. A few months back home, trying to build my own IT product (more on that later) and doing some \"no-screen\" work to cover costs sounded quited good. Also, Bionda just got a new puppy, and that's a bonus for since I can watch it grow, and for Bionda to be able to actually do something without the puppy sometimes.\n\nIt's not that I don't like my life on the road any more, or that I decided to quit this journey for good. I just slowly felt my priorities shift from just being on the road and discovering all I can to actually finding a sustainable way to integrate the good bits of my traveling lifestyle with \"normal\" life. And that includes balancing all the cool stuff on the road with being productive, actually making money instead of only spending it and having one or more places that feel a bit like home. A winter back in Arnhem, trying to figure out the life of a startup-person, sounds like a sensible step towards that life.\n\nIn Budapest I met up again with Bionda and we enjoyed a few very relaxed, comfortable days together. That also helped making the choice and booking the tickets. I am now booked on the train from Vienna to Duisburg, arriving around midnight on 14 November. The last 100 kilometer from Duisburg to Arnhem I want to cycle back home, which should have me arrive back at my place somewhere in the morning.\n",
+    "created": "2021-10-24T00:00:00.000Z",
+    "coordinates": {
+      "long": 19.039416984106836,
+      "lat": 47.48998762898797
+    },
+    "index": 52
+  },
+  {
+    "id": "c3e9dd19-8da7-477e-a2bd-eb77ca58f66a",
+    "title": "First and final new country",
+    "long": 18.85313988895543,
+    "lat": 47.82340055384753,
+    "created_at": "2021-10-28T00:00:00.000Z",
+    "updated_at": "2021-11-06T16:40:35.788Z",
+    "images": [
+      {
+        "id": "eac84db2-282b-4aaa-8b21-15915dcbd54e",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/slowakije-brug.JPG",
+        "description": "",
+        "created_at": "2021-11-06T11:02:06.912+00:00",
+        "updated_at": "2021-11-06T16:40:37.206+00:00",
+        "turn": null,
+        "created": "2021-11-06T11:02:06.912+00:00",
+        "updated": "2021-11-06T16:40:37.206+00:00"
+      }
+    ],
+    "content": "I have visited countless towns and cities along my route that I have never seen before. However, since I have traveled a fair bit in Europe before this trip, I haven't entered a country I haven't seen yet. France, Germany and Belgium are hard *not* to visit if you live in the Netherlands. I visited Italy twice with school and once to find some warmth in Sicily in winter. I have visited Hungary, Slovenia and Croatia during my time as a student. Slovakia, however, was going to be a first.",
+    "created": "2021-10-28T00:00:00.000Z",
+    "coordinates": {
+      "long": 18.85313988895543,
+      "lat": 47.82340055384753
+    },
+    "index": 53
+  },
+  {
+    "id": "bf4e2d66-5e54-4822-8233-aca338b8be90",
+    "title": "Selfie time",
+    "long": 17.680967866465295,
+    "lat": 47.78958095877274,
+    "created_at": "2021-10-29T00:00:00.000Z",
+    "updated_at": "2021-11-06T11:00:26.983Z",
+    "images": [
+      {
+        "id": "46dfe805-9ad6-48c6-8611-3ade98b171b1",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/aankijk-selfie.JPG",
+        "description": "",
+        "created_at": "2021-11-06T10:54:31.149+00:00",
+        "updated_at": "2021-11-06T11:00:28.439+00:00",
+        "turn": null,
+        "created": "2021-11-06T10:54:31.149+00:00",
+        "updated": "2021-11-06T11:00:28.439+00:00"
+      },
+      {
+        "id": "1cf0762b-877c-40c9-8da9-02b6dff341da",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/hangede-selfie.JPG",
+        "description": "",
+        "created_at": "2021-11-06T10:55:54.464+00:00",
+        "updated_at": "2021-11-06T11:00:28.465+00:00",
+        "turn": null,
+        "created": "2021-11-06T10:55:54.464+00:00",
+        "updated": "2021-11-06T11:00:28.465+00:00"
+      }
+    ],
+    "content": "I was cycling along a long, straight road for a while and felt like messing about with the self timer again.",
+    "created": "2021-10-29T00:00:00.000Z",
+    "coordinates": {
+      "long": 17.680967866465295,
+      "lat": 47.78958095877274
+    },
+    "index": 54
+  },
+  {
+    "id": "51cecd67-f7dc-4604-8595-48013a6a0361",
+    "title": "Final super-stealthy steath camp",
+    "long": 17.5592638796716,
+    "lat": 47.87255338176848,
+    "created_at": "2021-10-30T00:00:00.000Z",
+    "updated_at": "2021-11-06T11:34:39.878Z",
+    "images": [
+      {
+        "id": "98f90309-50bd-4402-b866-4807dc9f0e8f",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/wildkamperen-slowakije.JPG",
+        "description": "",
+        "created_at": "2021-11-06T11:13:30.468+00:00",
+        "updated_at": "2021-11-06T11:34:41.544+00:00",
+        "turn": null,
+        "created": "2021-11-06T11:13:30.468+00:00",
+        "updated": "2021-11-06T11:34:41.544+00:00"
+      }
+    ],
+    "content": "South-eastern Slovakia does not have a massive amount of nice towns. Campings, if they would have existed at all, tend to close around the first of October, so that's also not a great option to spend the night. I decided to go for one more night of stealth camping just before entering Bratislava for a few days.\n\nWhen I look for a spot to camp I try to find flat, public and unused land behind some sort of barrier. Just before nightfall I was cycling along a bike lane with no car traffic anywhere nearby. On one side it was bordered by the Danube, on the other a small dyke wall. From the path you could not see behind the dyke. I pitched my tent on the other side, close to the wall.\n\nThis was by far the quietest camp I have had so far. Sure, it was a bit chilly at times, but nothing my extra layers of clothing couldn't help me cope with. But I got to sleep with zero other humans in a radius of a few kilometers and get a really nice view of the fields in the morning.\n\nI have had people ask me whether wild camping is legal in a certain country. While at first I made some attempt of knowing this, I stopped caring after a while. If you hide well, the chances of you being seen in some remote area at night are very small. The chances of the person seeing you being a policeman are way smaller still. Then the chances of that policeman fining you if you are packing up just after sunrise in a spot where you aren't bothering anyone are even smaller. And even then, the costs of the most expensive fines for wild-camping max out at a few hundred euros.\n\nSo, if you would be extremely pessimistic and you assume you have a 1% chance of getting fined, and the fine would be 200 euros, you are still only \"paying\" 2 euros per night, which is still far cheaper then most campings. I don't think that should stop you from exploring what the Scandinavians so appropriately call your *allemansrätt*, every man's right to access land in a non-destructive way.",
+    "created": "2021-10-30T00:00:00.000Z",
+    "coordinates": {
+      "long": 17.5592638796716,
+      "lat": 47.87255338176848
+    },
+    "index": 55
+  },
+  {
+    "id": "1df5c713-27af-40e1-9bce-f56e757a1593",
+    "title": "Party hostel time",
+    "long": 17.109761553331733,
+    "lat": 48.150815997969865,
+    "created_at": "2021-10-31T00:00:00.000Z",
+    "updated_at": "2021-11-21T10:27:09.060Z",
+    "images": [
+      {
+        "id": "589710e2-db68-4284-a9bb-579e050030d0",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/fietser-bratislava.JPG",
+        "description": "",
+        "created_at": "2021-11-21T09:22:46.594+00:00",
+        "updated_at": "2021-11-21T10:27:11.993+00:00",
+        "turn": null,
+        "created": "2021-11-21T09:22:46.594+00:00",
+        "updated": "2021-11-21T10:27:11.993+00:00"
+      },
+      {
+        "id": "131baa61-0e3a-4d96-82ff-d57db64a00b7",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/kloktoren-bratislava.JPG",
+        "description": "",
+        "created_at": "2021-11-21T09:23:29.888+00:00",
+        "updated_at": "2021-11-21T10:27:12.002+00:00",
+        "turn": null,
+        "created": "2021-11-21T09:23:29.888+00:00",
+        "updated": "2021-11-21T10:27:12.002+00:00"
+      },
+      {
+        "id": "cc565349-9641-46e9-ae66-b9f676e1b94e",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/verrekijker-communisme.JPG",
+        "description": "",
+        "created_at": "2021-11-21T09:24:32.155+00:00",
+        "updated_at": "2021-11-21T10:27:11.998+00:00",
+        "turn": null,
+        "created": "2021-11-21T09:24:32.155+00:00",
+        "updated": "2021-11-21T10:27:11.998+00:00"
+      }
+    ],
+    "content": "After a relaxing and quiet time in Budapest I decided that it would be interesting to see what it would be like to stay in a party hostel. Normally I would avoid anything that is labeled as \"party\", since everything that screams \"party\" tends not to be the kind of party I would enjoy. British stag parties and girls going \"WHOOO!!\" do not immediately appeal to me. However, since I was getting home in a short time, I wanted to do all the stuff I normally would not do at home, and going to a \"party\" place definitely falls under that category.\n\nI arrived on Halloween, so the place was filled with people just there for the fancy dress party. I just cycled the full day so I did turned in a bit early. Because of my \"sun-up to sun-down\" sleeping rhythm, I woke up at 7 am. I was a bit groggy but immediately felt better when seeing the general havoc of the slowly ending party around me. A few people were sleeping on couches, some were generally detached from reality and some of the hostel staff were starting to grumpily clean up all the mess from last night.\n\nThe next night I hung out with some lovely people, went dancing, migrated to an awful club with a few fellow Dutches, brought a random group of Turkish people we found on the street back to our hostel, thought everyone a Dutch multiplication-table-based drinking game (*juffen*) and ended up in bed very late. After a night like that I really wanted a good bed and a functioning shower for the next few days. While the hostel I was at was very fun, it did not have those things. A sister hostel excited that looked a bit less run-down, so I decided to move over there.\n\nWhile the bed were nicer and the showers were hotter, the social atmosphere was a bit weird. My roommates were one Ukrainian guy who didn't speak much English and appeared to just watch Russian-language videos all day, a Serbian woman who was trying to find a job in Bratislava and two guys who were always asleep when I was awake and always gone drinking when I was sleeping. The binge-drinkers in my room just put me off the whole \"party\" thing more and more. Those days I usually spent my mornings working a bit, my afternoons watching bad Dutch series and my nights going to sleep early.\n\nA few nights before I left the hostel another British guy joined our dorm. He was honestly one of the most inconsiderate people I have met in my life. When sleeping in a dorm with a bunch of other people, what kind of person would turn on the light and start talking loudly when some other people are obviously sleeping? This guy would. What kind of person would ask someone from Serbia: \"Hey, didn't you guy murder a bunch of people in Kosovo back in the day?\". Him again. And who would have very loud sex in a dorm room, with yours truly was trying to get some sleep in the bottom bunk? Yep, this guy.\n\nNeedless to say, I was quite happy to be on the road again to Vienna, where I'd stay with some people I've met on the road.",
+    "created": "2021-10-31T00:00:00.000Z",
+    "coordinates": {
+      "long": 17.109761553331733,
+      "lat": 48.150815997969865
+    },
+    "index": 56
+  },
+  {
+    "id": "7457e7df-e5eb-43c8-8dd3-731bc6706056",
+    "title": "Vienna ",
+    "long": 16.36724019544153,
+    "lat": 48.21894190547083,
+    "created_at": "2021-11-10T00:00:00.000Z",
+    "updated_at": "2021-11-27T10:59:52.482Z",
+    "images": [
+      {
+        "id": "ff6de57b-8225-4b5a-930a-2971134d7fb6",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/wenen-touristenselfie.jpeg",
+        "description": "",
+        "created_at": "2021-11-21T10:35:42.853+00:00",
+        "updated_at": "2021-11-27T10:59:54.357+00:00",
+        "turn": null,
+        "created": "2021-11-21T10:35:42.853+00:00",
+        "updated": "2021-11-27T10:59:54.357+00:00"
+      },
+      {
+        "id": "0cf8b01e-3f05-4ca2-9ad4-4ee720a65a2d",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/WhatsApp%20Image%202021-11-24%20at%2020.18.11%20%281%29.jpeg",
+        "description": "",
+        "created_at": "2021-11-27T10:37:26.108+00:00",
+        "updated_at": "2021-11-27T10:59:54.362+00:00",
+        "turn": null,
+        "created": "2021-11-27T10:37:26.108+00:00",
+        "updated": "2021-11-27T10:59:54.362+00:00"
+      }
+    ],
+    "content": "It was nice to cycle back into Austria and to be able to understand everything and everyone again. It was a bit less nice that my luggage set-up was slowly falling apart. I rammed one of my \"indestructible\" Ortlieb panniers into a fence, which caused the pannier-hangers to snap. To cycle with all my gear I had to carry everything I had strapped on my rack on my back and rig my pannier with cut-up inner-tubes on my rack. This unstable set-up obviously failed a few times at inconvenient moments while cycling through Vienna.\n\nI spent three lovely nights with people I have met on the road in Vienna. The first two days I spent with Jadh, a Brazilian girl studying in Vienna whom I met in Bratislava. We went to a fancy museum, complained about her ex moving to Vienna (the nerve of the man!), walked around town for a day (Jadh forgot the key to her apartment, so there was quite some walking involved) and went out to a Christmas market. I even got a private room because one of her roommates was gone for a couple of days, which I very much enjoyed after a long time in a hostel.\n\nFor the last night I moved to Sophie's place. Sophie is an Austrian girl who invited me to show me around town when I was in Budapest. She gave me a very elaborate tour of the city, including getting kaiserschmarrn at St. Stephens cathedral. We went to another Christmas market that night with some of her friends. Eventually we ended up playing Mario Cart at one of her friend's homes and getting late night snacks at around 2 am.\n\nReconnecting with people I met before on the road and the general Christmas-y atmosphere in Vienna felt like a very appropriate closure of my trip. I left with spring-like weather, a lot of rain and moderate temperatures, I experienced summer in southern Europe, saw the leaves turn in Croatia and Hungary, so the start of the Christmas-season made me feel like I have had an entire year's worth of seasons on my trip. Again, thanks for the lovely experiences, Jadh and Sophie!\n\nNext day I had to get the train to Passau, from where I would get my connection to Duisburg. I took a bit longer then I wanted to get my (broken) pack set up again, so I had to rush a bit to catch the train. I knew I was cycling with good speed because I even caught up with a delivery guy on an e-bike. Cycling for a few months apparently made me a good bit faster then I used to be.",
+    "created": "2021-11-10T00:00:00.000Z",
+    "coordinates": {
+      "long": 16.36724019544153,
+      "lat": 48.21894190547083
+    },
+    "index": 57
+  },
+  {
+    "id": "4d758e2e-c02f-4c21-819a-225f8c1beb21",
+    "title": "Night cycling",
+    "long": 6.784082965558583,
+    "lat": 51.44278561999962,
+    "created_at": "2021-11-13T00:00:00.000Z",
+    "updated_at": "2021-11-30T08:08:04.152Z",
+    "images": [
+      {
+        "id": "c6acc188-5613-4968-a68b-15419c457909",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/fietsintrein.jpg",
+        "description": "",
+        "created_at": "2021-11-21T10:37:42.391+00:00",
+        "updated_at": "2021-11-30T08:08:05.699+00:00",
+        "turn": "left",
+        "created": "2021-11-21T10:37:42.391+00:00",
+        "updated": "2021-11-30T08:08:05.699+00:00"
+      },
+      {
+        "id": "91807fbf-87c9-457d-849d-94859fea6135",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/stuurentrein.jpg",
+        "description": "",
+        "created_at": "2021-11-21T10:38:41.36+00:00",
+        "updated_at": "2021-11-30T08:08:05.682+00:00",
+        "turn": "left",
+        "created": "2021-11-21T10:38:41.36+00:00",
+        "updated": "2021-11-30T08:08:05.682+00:00"
+      },
+      {
+        "id": "ec159e87-e9ea-4f2c-b954-d2d503a5b210",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/engduisternishoofd.jpg",
+        "description": "",
+        "created_at": "2021-11-21T10:39:38.871+00:00",
+        "updated_at": "2021-11-30T08:08:05.701+00:00",
+        "turn": "left",
+        "created": "2021-11-21T10:39:38.871+00:00",
+        "updated": "2021-11-30T08:08:05.701+00:00"
+      }
+    ],
+    "content": "When booking my train tickets I had some trouble finding a connection that would take me and my bike home. There actually is a direct sleeper from Vienna to my home town, but sadly this train does not have spaces for bicycles yet. If you took away the sleeper trains, you end up with the problem that trains just stop going at a certain time. To get from west Germany to the Netherlands you would usually take local trains, and those do not go in the middle of the night. So, the only connection that would take us both for a reasonable price ended up stopping in Duisburg, somewhere in the Ruhr area, at 2 am.\n\nIt would be possible to book a hotel close to the railway station and head to Arnhem the next day, but that would be expensive and above all, very lame. So, I decided that I would just cycle through the night. The trip would be a bit under 100km, which should be a doable distance. I was a bit concerned that it would be rainy and cold. I prepared in the train to layer all my warm clothes on top of each other. Luckily the conditions were actually fine: dry, no wind and about 8 degrees. \n\nWhile this all sounds very hard-core, the ride itself was quite easy. The road were near-perfect and flat, which was a lot better then most of the roads I have had the past months. It was a bit challenging sometimes to see in front of me since not all roads were well-lit, but my headlight provided enough illumination to figure out where to ride. You can't really take a break at a coffee shop somewhere, but I managed to find a gas station to sell me a bottle of water to keep me going. \n\nIt was actually quite nice to enjoy a different version of the world in this trip. I got to see a few parties going on while starting out on my ride, I saw lots of empty roads in the middle and I had breakfast at the border while everyone else was getting their Sunday-morning bread. Only at the very end I noticed that I was getting a bit tired. Luckily I was almost home by then...\n\n",
+    "created": "2021-11-13T00:00:00.000Z",
+    "coordinates": {
+      "long": 6.784082965558583,
+      "lat": 51.44278561999962
+    },
+    "index": 58
+  },
+  {
+    "id": "e6ada8c7-f2c5-44a9-bbee-b9e0c5c02915",
+    "title": "Back home",
+    "long": 5.9089768,
+    "lat": 51.9706255,
+    "created_at": "2021-11-14T00:00:00.000Z",
+    "updated_at": "2021-11-30T08:40:28.144Z",
+    "images": [
+      {
+        "id": "2e3175b2-d439-4f3e-851d-5467cd055f5c",
+        "path": "https://blog-backup-lennart.s3.fr-par.scw.cloud/fietsisterug.jpg",
+        "description": "",
+        "created_at": "2021-11-21T10:40:27.729+00:00",
+        "updated_at": "2021-11-30T08:40:29.746+00:00",
+        "turn": null,
+        "created": "2021-11-21T10:40:27.729+00:00",
+        "updated": "2021-11-30T08:40:29.746+00:00"
+      }
+    ],
+    "content": "After four months and thousands of kilometers of cycling I finally returned to the place where I set off from. After dealing with the dogs going crazy because of my return I stumbled to bed and slept for a few hours. Being \"home\" still felt a bit weird, I have gotten so used to moving around that it did not really feel like my own space yet. Somehow the only place that felt really mine was the inside of my tent.\n\nThe next days I was catching up on all the missed comfyness by spending a lot of time watching TV and cuddling the dogs. I also started feeling the consequences of cycling through the night, so that matched pretty well with my new passive lifestyle. By now (at the end of November) I am settled in to a rhythm of sports, working on my own software and planning my next trips.\n\nI am not really sure how to describe what I was looking for, besides a cool experience, when I left. It could have been freedom, the freedom to decide every day how to get the most out of it. Maybe it was also curious if I can, in a very literal sense, survive by myself in the real world, without all the comforts of a social network, a home and a job. It could also have been escaping from the \"rail road\" of life, where once you get a job and a house, you just move up the career and real-estate ladders, where each move upwards makes it harder to leave that track. \n\nWhatever it was that I was looking for, I returned with the feeling that I have found \"it\". While sleeping somewhere else every night is not something I would enjoy for many years to come, I do want to have a good part of the adventure and dynamism of my traveling lifestyle permanently. I also just do not want to return to a 9-to-5 office-lifestyle anymore. Since I am privileged with my skill-set and (both financial and non-financial) assets, I want to focus on completing meaningful projects, with part-time salaried work just as a way to get a stable income.\n\nFor now my plans after winter are to give the digital-nomad lifestyle a go. I would like to work remotely for a few days per week and spend the rest on developing my own software, while switching locations every few weeks or months. Perhaps I will get myself a folding bicycle to take with me, so I can more easily take trains and buses. But for now I will entertain myself with planning, programming and enjoying the comforts of a stationary life.\n\n",
+    "created": "2021-11-14T00:00:00.000Z",
+    "coordinates": {
+      "long": 5.9089768,
+      "lat": 51.9706255
+    },
+    "index": 59
+  }
+]
